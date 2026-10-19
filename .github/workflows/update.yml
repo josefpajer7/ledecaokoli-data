@@ -36,7 +36,7 @@ jobs:
         id: fetch
         continue-on-error: true
         env:
-          DEBUG: ${{ (github.event_name == 'push' || inputs.debug) && '1' || '0' }}
+          DEBUG: ${{ inputs.debug && '1' || '0' }}
         run: node scripts/update.mjs
 
       - name: Uložit změny

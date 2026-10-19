@@ -239,7 +239,7 @@ async function updateAkce(today) {
 // ---------------------------------------------------------------- ÚŘEDNÍ DESKA
 
 // Co na portálu nezobrazujeme — dlouhé seznamy, které běžného čtenáře nezajímají.
-const DESKA_EXCLUDE = /veřejnoprávní smlouv|smlouv[ay] o poskytnutí|rozpočtov[éá] opatření|závěrečn[ýé] účet|schválen[ýé] rozpočet|návrh rozpočtu|střednědob|výroční zpráva|zpráva o výsledku přezkoumání/i;
+const DESKA_EXCLUDE = /veřejnoprávní smlouv|smlouv[ay] o |dodatek č|rozpočtov[éá] opatření|závěrečn[ýé] účet|schválen[ýé] rozpočet|návrh rozpočtu|střednědob|výroční zpráva|zpráva o výsledku přezkoumání/i;
 
 const DESKA_TAGS = [
   [/volb|voleb|okrsk|kandid|hlasov|zvolen/i, "Volby", "v"],
@@ -327,9 +327,9 @@ async function updateDeska(today) {
 // ---------------------------------------------------------------- AKTUALITY
 
 const NEWS_CATS = [
-  [/uzavírk|objížď|výluk|jízdní řád|doprav|parkov|silnic|chodník|most/i, "doprava"],
+  [/uzavírk|objížď|výluk|jízdní řád|doprav|parkov|silnic|chodník|most|ulic[eíi]ch|oprav[ay] komunikac/i, "doprava"],
   [/odstávk|přerušení dodávky|vod[ay]\b|elektřin|plyn|kanalizac/i, "site"],
-  [/zastupitel|rada města|volb|voleb|zvolen|úřad|poplat|vyhlášk|svoz|odpad/i, "urad"],
+  [/zastupitel|rada města|zvolen|úřad|poplat|vyhlášk|svoz odpadu|sběrn/i, "urad"],
 ];
 function newsCat(t) {
   for (const [re, c] of NEWS_CATS) if (re.test(t)) return c;
@@ -343,7 +343,8 @@ function nearestDate(html, start, end, radius = 700) {
   const chunk = html.slice(from, Math.min(html.length, end + radius));
   while ((d = dateRe.exec(chunk))) {
     const pos = from + d.index;
-    const dist = pos < start ? start - pos : pos > end ? pos - end : 0;
+    // datum uvnitř nadpisu (např. „…od 21.10.2026“) bereme až jako poslední možnost
+    const dist = pos < start ? start - pos : pos >= end ? pos - end : radius * 10;
     if (dist < bestDist) { bestDist = dist; best = d[0]; }
   }
   return best ? czDate(best) : null;
