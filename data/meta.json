@@ -1,0 +1,24 @@
+{
+ "updated": "2026-10-19T15:17:40.498Z",
+ "today": "2026-10-19",
+ "sources": {
+  "akce": {
+   "ok": true,
+   "lastSuccess": "2026-10-19T15:17:40.498Z",
+   "count": 25,
+   "method": "api",
+   "warnings": []
+  },
+  "deska": {
+   "ok": true,
+   "lastSuccess": "2026-10-19T15:17:40.498Z",
+   "count": 13,
+   "total": 69
+  },
+  "aktuality": {
+   "ok": true,
+   "lastSuccess": "2026-10-19T15:17:40.498Z",
+   "count": 12
+  }
+ }
+}

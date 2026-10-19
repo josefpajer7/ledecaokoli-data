@@ -1,0 +1,1273 @@
+URL: https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html
+STATUS: 200
+
+<!DOCTYPE html>
+<html lang="cs">
+                                                                                                   
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <link rel="shortcut icon" href="https://www.ledecns.cz/favicon.ico" type="image/x-icon"  />
+  <title>Aktuální oznámení - Ledeč nad Sázavou</title>
+  <meta name="keywords" content="Aktuální oznámení - Ledeč nad Sázavou" />
+  <meta name="description" content="Aktuální oznámení - Ledeč nad Sázavou" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.ledecns.cz/rss.xml" />
+  <meta name="robots" content="ALL,FOLLOW" />
+  <meta name="author" content="as4u.cz, s.r.o." />
+  <meta name="authormail" content="company@as4u.cz" />
+  <meta name="authorweb" content="http://www.as4u.cz" />
+  <meta name="generator" content="Public4u" />
+  
+  <link href="/redakce/rs/ledec_nad_sazavou_2023/ledec.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/redakce/inc/sablona/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <link href="/css/gallery.css" rel="stylesheet" type="text/css" media="screen" />
+  <script src="./../../../js/jquery.js?ver=20261019040658" type="text/javascript"></script>
+  <script src="./../../../js/jquery-ui.js?ver=20261019040658" type="text/javascript"></script>
+  <script src="./../../../js/nove_okno_obrazku.js?ver=20261019040658" type="text/javascript"></script>
+  <script src="./../../../js/redakce.js?ver=20261019040658" type="text/javascript"></script>
+  <script src="./../../../js/ajax_load.js?ver=20261019040658" type="text/javascript"></script>
+  <script src="./../../../js/gallery4u.js?ver=20261019040658" type="text/javascript"></script>
+  <script src="./../../../js/as4u_popup.js?ver=20261019040658" type="text/javascript"></script>
+  <script src="https://www.ledecns.cz/redakce/rs/ledec_nad_sazavou_2023/ledec.js" type="text/javascript"></script>
+  <script src="/redakce/inc/sablona/js/kalendar.js" type="text/javascript"></script><script src="/redakce/inc/sablona/mobilni_menu/mobilni_menu.js" type="text/javascript"></script><link href="/redakce/inc/sablona/mobilni_menu/mobilni_menu.css" rel="stylesheet" type="text/css" media="screen"><script type="text/javascript">var urltomenuajax = location.protocol + "//" + document.location.host + "/redakce/inc/sablona/mobilni_menu/ajax.php?portal=2179&lanG=cs&subakce=";</script>
+  <meta property="og:title" content="Aktuální oznámení - Ledeč nad Sázavou"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="https://www.ledecns.cz/galerie/790351.png"/>
+  <meta property="og:image:width" content="314"/>
+  <meta property="og:image:height" content="194"/>
+  <meta property="og:url" content="https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html"/>
+  <meta property="og:site_name" content="Ledeč nad Sázavou"/>
+  <meta property="og:description" content=" "/>
+  <meta property="fb:admins" content="michal.ptacnik.520"/>
+</head><body >
+<header id="topnav_id" class="subakce">
+    <div class="search_win">
+    <div class="obsah_v">
+        <div class="search_close_clona"></div>
+        <div class="vyhledavani_obal">
+    <form class="vyhledavani" action="/redakce/index.php" method="get" id="as4u_form_search">
+        <input type="hidden" name="xuser" value="">
+        <input type="hidden" name="lanG" id="search_actualLang" value="cs">
+         
+        <input type="hidden" name="subakce" value="scearch">
+        <input type="text" name="scearchText" id="find_in_redakce" class="textpole_vyhledavani" placeholder="zadejte hledanou frázi" accesskey="4">
+        <input type="submit" value="vyhledat" title="vyhledat" class="tlacitko_vyhledat">
+    </form>
+</div>        <span class="search_open"></span>
+    </div>
+</div>
+<div class="top_bar">
+    <div class="obsah">
+                <a href="https://www.ledecns.cz" class="logo" title="Titulní strana">
+            <img src="/galerie/1842190.png" alt="Logo města">
+        </a>
+        <div class="top_menu">
+            <div class="odkazy odkaz_item">
+                <a
+                    href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;subakce=news&amp;">Aktuality</a>
+                <a href="https://www.ledecsko.cz/akce/">Akce</a>
+            </div>
+            <a href="tel:566466610" class="kontakt search_icon odkaz_item">
+                <span class="cislo">+420 566 466 610</span>
+                <span class="ikona">
+                    <img src="/galerie/1842188.svg" alt="Ikona telefonu">
+                </span>
+            </a>
+            <div class="search search_icon odkaz_item search_open"></div>
+            <div class="mobile_menu odkaz_item" onclick="open_mob_menu()">
+                <span class="top"></span>
+                <span class="mid"></span>
+                <span class="bot"></span>
+            </div>
+        </div>
+    </div>
+</div>
+</header>
+<main class="">
+    <div
+        class="main_obsah stranka_subakce page_size ">
+        <section class="navigace">
+    <nav class="hlavni page_size">
+        <ul>
+            <li class="karta karta_1">
+    <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/" class="nadpis">
+        <span class="icon"><img src="https://www.ledecns.cz/galerie/1842189_80_80.svg" alt="Město a samospráva"></span>
+        <span class="nadpis">Město a samospráva</span>
+    </a>
+    <div class="podsekce">
+        <ul class="submenu">
+                <li>
+        <a href="https://www.ledecns.cz/cs/mesto/o-meste.html" class="nadpis_menu">O městě</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto/symboly-mesta.html" class="nadpis_menu">Symboly města</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/vedeni-mesta.html" class="nadpis_menu">Vedení města</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/rada-mesta/" class="nadpis_menu">Rada města</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/zastupitelstvo-mesta/" class="nadpis_menu">Zastupitelstvo města</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/organizace-mesta/" class="nadpis_menu">Organizace města</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/dotazy.html" class="nadpis_menu">Dotazy</a>
+    </li>
+        </ul>
+        <div class="obal_odkazu">
+            <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/" class="btn">Zobrazit více <img src="/galerie/1842201.svg" alt=""></a>
+        </div>
+    </div>
+</li><li class="karta karta_2">
+    <a href="https://www.ledecns.cz/cs/mestsky-urad/" class="nadpis">
+        <span class="icon"><img src="https://www.ledecns.cz/galerie/1842193_80_80.svg" alt="Městský úřad"></span>
+        <span class="nadpis">Městský úřad</span>
+    </a>
+    <div class="podsekce">
+        <ul class="submenu">
+                <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/kontakty.html" class="nadpis_menu">Kontakty</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/" class="nadpis_menu">Elektronická úřední deska</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/povinne-zverejnovane-informace-1.html" class="nadpis_menu">Povinně zveřejňované informace</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/organizacni-struktura-1.html" class="nadpis_menu">Organizační struktura</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/" class="nadpis_menu">Dokumenty</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/krizove-rizeni/" class="nadpis_menu">Krizové řízení</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/sprava-hrbitova.html" class="nadpis_menu">Správa hřbitova</a>
+    </li>
+        </ul>
+        <div class="obal_odkazu">
+            <a href="https://www.ledecns.cz/cs/mestsky-urad/" class="btn">Zobrazit více <img src="/galerie/1842201.svg" alt=""></a>
+        </div>
+    </div>
+</li><li class="karta karta_3">
+    <a href="https://www.ledecns.cz/cs/pro-obcany-1/" class="nadpis">
+        <span class="icon"><img src="https://www.ledecns.cz/galerie/1842195_80_80.svg" alt="Pro občany"></span>
+        <span class="nadpis">Pro občany</span>
+    </a>
+    <div class="podsekce">
+        <ul class="submenu">
+                <li>
+        <a href="https://www.ledecns.cz/cs/pro-obcany/ztraty-a-nalezy.html" class="nadpis_menu">Ztráty a nálezy</a>
+    </li>
+    <li>
+        <a href="https://app.gisonline.cz/ledec-nad-sazavou" class="nadpis_menu">Mapový portál</a>
+    </li>
+    <li>
+        <a href="https://www.ledecsko.cz/akce/" class="nadpis_menu">Všechny akce</a>
+    </li>
+    <li>
+        <a href="https://www.ledecsko.cz/tipy-na-vylet/" class="nadpis_menu">Tipy na výlety</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/pro-obcany/sportoviste-ve-meste.html" class="nadpis_menu">Sportoviště ve městě</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/pro-obcany/zpravodaj-mesta-ledce-nad-sazavou/" class="nadpis_menu">Zpravodaj města Ledče nad Sázavou</a>
+    </li>
+    <li>
+        <a href="http://habrek.ledecns.cz/" class="nadpis_menu">Spolkový dům Habrek - rezervace</a>
+    </li>
+        </ul>
+        <div class="obal_odkazu">
+            <a href="https://www.ledecns.cz/cs/pro-obcany-1/" class="btn">Zobrazit více <img src="/galerie/1842201.svg" alt=""></a>
+        </div>
+    </div>
+</li>        </ul>
+    </nav>
+</section>        <aside id="el_menu_clanku" class="leve_menu">
+            <div class="sloupec_navigace">
+<h4 class="nadpis_navigace"><span class="nadpis_navigace">Navigace</span></h4>
+<div class="nadrazeny_oddil"><a class="odkaz_nadrazeny_oddil" title="Zpět na úvodní stranu" href="https://www.ledecns.cz/redakce/index.php?xuser=&amp;lanG=cs&amp;portal=2179&amp;slozka=49494">Zpět na úvodní stranu</a></div>
+<h3 class="nadpis_oddilu"><span class="nadpis_oddilu">Městský úřad</span></h3>
+<ul class="navigace"><li class="clanek_mimo_sekci" id="lnav_50166"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/mestsky-urad/kontakty.html">Kontakty</a></li><li class="sekce" id="lnav_49709"><span class="nadpis_sekce"><a href="https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/" class="nadpis_sekce_odkaz nadpis_sekce_aktivni odkaz49709" id="odkaz49709">Elektronická úřední deska</a></span><ul class="odkazy_v_sekci sekce49709" id="sekce49709"><li class="odkaz_v_sekci" id="lnav_49751"><a href="https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html" class="odkaz_v_sekci clanek_vybrany">Aktuální oznámení</a></li><li class="odkaz_v_sekci" id="lnav_49750"><a href="https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/vyhledavani.html" class="odkaz_v_sekci">Vyhledávání</a></li></ul>
+</li>
+<li class="clanek_mimo_sekci" id="lnav_50164"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/mestsky-urad/povinne-zverejnovane-informace-1.html">Povinně zveřejňované informace</a></li><li class="clanek_mimo_sekci" id="lnav_51812"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/mestsky-urad/organizacni-struktura-1.html">Organizační struktura</a></li><li class="sekce" id="lnav_50803"><span class="nadpis_sekce"><a href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/" class="nadpis_sekce_odkaz odkaz50803" id="odkaz50803">Dokumenty</a></span><ul class="odkazy_v_sekci sekce50803" id="sekce50803"><li class="odkaz_v_sekci" id="lnav_67728"><a class="odkaz_v_sekci" href="https://www.ledecns.cz/cs/mesto-a-samosprava/rada-mesta/usneseni-rady/">Usnesení rady města</a></li><li class="odkaz_v_sekci" id="lnav_67727"><a class="odkaz_v_sekci" href="https://www.ledecns.cz/cs/mesto-a-samosprava/zastupitelstvo-mesta/usneseni-zastupitelstva/">Usnesení zastupitelstva</a></li><li class="odkaz_v_sekci" id="lnav_50854"><a href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/formulare.html" class="odkaz_v_sekci">Formuláře</a></li><li class="odkaz_v_sekci" id="lnav_50805"><a href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/vyhlasky-a-smernice.html" class="odkaz_v_sekci">Vyhlášky a směrnice</a></li><li class="odkaz_v_sekci" id="lnav_173898"><a href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/rozpocet-mesta/" class="odkaz_v_sekci">Rozpočet města</a></li><li class="odkaz_v_sekci" id="lnav_50806"><a href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/zaverecny-ucet-mesta.html" class="odkaz_v_sekci">Závěrečný účet města</a></li><li class="odkaz_v_sekci" id="lnav_50875"><a href="https://www.ledecns.cz/cs/mesto/dokumenty/uzemni-plan.html" class="odkaz_v_sekci">Územní plán</a></li><li class="odkaz_v_sekci" id="lnav_391245"><a href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/poskytnute-informace-dle-zakona-106-1999-sb.html" class="odkaz_v_sekci">Poskytnuté informace dle zákona 106/1999 Sb.</a></li><li class="odkaz_v_sekci" id="lnav_150465"><a href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/prohlaseni-o-pristupnosti.html" class="odkaz_v_sekci">Prohlášení o přístupnosti</a></li><li class="odkaz_v_sekci" id="lnav_51178"><a href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/ostatni.html" class="odkaz_v_sekci">Ostatní</a></li></ul>
+</li>
+<li class="clanek_mimo_sekci" id="lnav_174658"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/mestsky-urad/krizove-rizeni/">Krizové řízení</a></li><li class="clanek_mimo_sekci" id="lnav_210621"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/mestsky-urad/sprava-hrbitova.html">Správa hřbitova</a></li><li class="clanek_mimo_sekci" id="lnav_50165"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/mestsky-urad/czech-point-1.html">Czech POINT</a></li><li class="clanek_mimo_sekci" id="lnav_49708"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/mestsky-urad/registr-oznameni.html">Registr oznámení</a></li><li class="sekce" id="lnav_315846"><span class="nadpis_sekce"><a href="https://www.ledecns.cz/cs/mestsky-urad/odpadove-hospodarstvi/" class="nadpis_sekce_odkaz odkaz315846" id="odkaz315846">Odpadové hospodářství</a></span></li>
+<li class="clanek_mimo_sekci" id="lnav_365563"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/mestsky-urad/ochrana-osobnich-udaju.html">Ochrana osobních údajů</a></li></ul>
+<script type="text/javascript"> skr('50803'); </script><script type="text/javascript"> skr('315846'); </script><span style="display: none;" id="xsekce_id">49709</span><div class="cleaner">&nbsp;</div>
+</div>
+        </aside>
+        <article
+            class="clanek_body">
+            <div class="cesta_ke_clanku"><a href="https://www.ledecns.cz" class="odkaz_domu" title="Úvodní strana"><span>Úvodní strana</span></a><span class="oddelovac_cesty_obal"><span class="oddelovac_cesty"> &gt; </span></span><a href="https://www.ledecns.cz/cs/mestsky-urad/">Městský úřad</a><span class="oddelovac_cesty_obal"><span class="oddelovac_cesty"> &gt; </span></span><a href="https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/">Elektronická úřední deska</a></div><h1 class="nadpis_clanku ">Aktuální oznámení</h1>
+        <div class="clanek clanek_uredni_deska">
+                            <form method="get" action="/redakce/index.php">
+                    <fieldset class="netisknout aplikace">
+                        <legend class="aplikace">Vyhledat oznámení</legend>
+                        <input type="hidden" name="lanG" value="cs">
+                        <input type="hidden" name="clanek" value="49751">
+                        <input type="hidden" name="slozka" value="50690">
+                        <input type="hidden" name="xsekce" value="49709">
+                        <input type="hidden" name="scearch" value="scearch">
+                        <input type="hidden" name="lanG" value="cs">
+
+                        <div class="uredni_deska">
+
+                            <div class="row row_1">
+                                                                      <div class="col">
+                                          <label for="zdroj" accesskey="z"><strong>Z</strong>droj oznámení:</label>
+                                          <select name="zdroj" id="zdroj" >
+<option value="0">-----</option>
+<option value="15705">Celní úřad</option>
+<option value="15675">Čeps, a.s.</option>
+<option value="15641">ČEZ Distribuce, a. s.</option>
+<option value="265">Exekutorský úřad</option>
+<option value="261">FÚ</option>
+<option value="270">Katastrální úřad</option>
+<option value="15639">Krajská veterinární správa</option>
+<option value="271">Krajský úřad kraje Vysočina</option>
+<option value="274">Krajský úřad Středočeského kraje</option>
+<option value="15666">MěÚ Havlíčkův Brod</option>
+<option value="264">MěÚ Ledeč nad Sázavou</option>
+<option value="267">MěÚ Světlá nad Sázavou</option>
+<option value="16895">Ministerstvo zemědělství</option>
+<option value="15701">Ministerstvo Životního prostředí</option>
+<option value="266">Okresní soud</option>
+<option value="269">PF ČR</option>
+<option value="15635">Policie ČR</option>
+<option value="15698">Prokonzulta, a.s.</option>
+<option value="268">ÚZSVM</option>
+<option value="15634">Vodovody a kanalizace Havlíčkův Brod, a.s.</option>
+<option value="16034">VZP</option>
+</select>
+                                      </div>
+                                                                            <div class="col">
+                                          <label for="typ" accesskey="t"><strong>T</strong>yp oznámení:</label>
+                                          <select name="typ" id="typ" >
+<option value="0">-----</option>
+<option value="192">Dražba</option>
+<option value="195">Obecně závazná vyhláška</option>
+<option value="194">Ostatní</option>
+<option value="178">Oznámení</option>
+<option value="196">Pozvánka</option>
+<option value="179">Veřejná vyhláška</option>
+<option value="193">Výběrové řízení</option>
+</select>
+                                      </div>
+                                                                  </div>
+
+                            <div class="row row_2">
+                                <div class="col">
+                                    <label for="ftext" accesskey="n">Hledat v <strong>n</strong>ázvu nebo textu:</label>
+                                    <input type="text" name="ftext" id="ftext" value="" size="40">
+                                </div>
+                                                                <div class="col">
+                                    <label for="cj" accesskey="j">Číslo <strong>j</strong>ednací:</label>
+                                    <input type="text" name="cj" id="cj" value="" size="20">
+                                </div>
+                                                            </div>
+
+                            
+                            <div class="row row_3">
+
+                                <span class="heading_od_do">
+                                    <label class="heading_label" for="oddne" accesskey="o">Vyvěšeno v období:</label>
+                                </span>
+
+                                <div class="col oddne">
+                                    <label for="oddne" accesskey="o"><strong>o</strong>d </label>
+                                    <input type="text" name="oddne" id="oddne" value="" size=\"10\" maxlength=\"10\">
+                                    <a href="javascript:load_ajax_calendar('oddne', '', '', '', '', 'oddne')" title="kalendář">
+                                        <img src="/images/globalni/ikonka_kalendar_16x16.gif" width="16px" height="13px" alt="kalendář">
+                                    </a>
+                                </div>
+
+                                <div class="col dodne">
+                                    <label for="dodne" accesskey="d"><strong>d</strong>o </label>
+                                    <input type="text" name="dodne" id="dodne" value="" size="10" maxlength="10">
+                                    <a href="javascript:load_ajax_calendar('dodne', '', '', '', '', 'dodne')" title="kalendář">
+                                        <img src="/images/globalni/ikonka_kalendar_16x16.gif" width="16px" height="13px" alt="kalendář">
+                                    </a>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="row search">
+                                                            <span class="archiv">
+                                    <input type="checkbox" name="inclarch" id="inclarch" value="1" >
+                                    <label for="inclarch" accesskey="a">Prohledávat včetně <strong>a</strong>rchivu</label>
+                                </span>
+                                                            <input type="submit" value="Vyhledat" accesskey="h" class="tlacitko">
+                        </div>
+
+                    </fieldset>
+                </form>
+                                <div class="as4u_responzive_table">
+                    <table class="uredni_deska_vypis">
+                        <tr>
+                                                            <th>Číslo jednací</th>
+                                                            <th>Vyvěšení</th>
+                            <th>Název oznámení</th>
+                                                            <th>Zdroj</th>
+                                                                <th>Typ</th>
+                                            
+                        </tr>
+                                                    <tr>
+                                                                    <td>MSNS/18041/2026/OD-3</td>
+                                                                    <td class="nowrap">19.10.2026-4.11.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=304351&amp;">Rozhodnutí o povolení uzavírky</a>
+                                                                  </td>
+                                                                    <td>MěÚ Světlá nad Sázavou</td>
+                                                                        <td>Veřejná vyhláška</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>134/2026/9/ZM</td>
+                                                                    <td class="nowrap">14.10.2026-30.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=304014&amp;">Záměr prodeje speciálního automobilu</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>265/2026/13/RM</td>
+                                                                    <td class="nowrap">14.10.2026-30.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=304013&amp;">Záměr pronájmu prostor sloužících k podnikání</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>265/2026/13/RM</td>
+                                                                    <td class="nowrap">12.10.2026-28.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303722&amp;">Záměr výpůjčky</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303384&amp;">Ledeč nad Sázavou - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303281&amp;">Kožlí -  zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303227&amp;">Kamenná Lhota - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303209&amp;">Kouty - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303208&amp;">Hradec - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303202&amp;">Kozlov - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303200&amp;">Hněvkovice - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303197&amp;">Pavlov - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303196&amp;">Kynice - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303195&amp;">Vilémovice - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303193&amp;">Bělá - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303192&amp;">Chřenovice - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303191&amp;">Horní Paseka - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303190&amp;">Ostrov - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303188&amp;">Číhošt - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303187&amp;">Prosíčka - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303186&amp;">Jedlá - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">10.10.2026-25.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303185&amp;">Bojiště - zápis o výsledku voleb do ZO</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>KUJI 81905/2026</td>
+                                                                    <td class="nowrap">9.10.2026-9.11.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=303088&amp;">Oznámení o zahájení řízení - žádost ve věci vydání 1. změny integrovaného povolení při podstatné změně provozu zařízení „Linka povrchových úprav“ - KP Galvano s.r.o.</a>
+                                                                  </td>
+                                                                    <td>Krajský úřad kraje Vysočina</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>UZSVM/H/468823/2026-HHB</td>
+                                                                    <td class="nowrap">9.10.2026-11.11.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=302664&amp;">Aukční vyhláška</a>
+                                                                  </td>
+                                                                    <td>ÚZSVM</td>
+                                                                        <td>Veřejná vyhláška</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 27/2026</td>
+                                                                    <td class="nowrap">7.10.2026-8.10.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=302820&amp;">Veřejnoprávní smlouva o poskytnutí dotace - TJ Sokol Ledeč nad Sázavou</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>265/2026/13/RM</td>
+                                                                    <td class="nowrap">5.10.2026-21.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=302622&amp;">Záměr pronájmu části pozemků</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>MLNS/1850/2026/SU-3</td>
+                                                                    <td class="nowrap">2.10.2026-19.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=302125&amp;">Rozhodnutí - povolení stavby</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Veřejná vyhláška</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>MSNS/17124/2026/OD-51SDZ-TIM</td>
+                                                                    <td class="nowrap">2.10.2026-19.10.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=302110&amp;">Veřejná vyhláška - opatření obecné povahy - stanovení přechodné úpravy provozu</a>
+                                                                  </td>
+                                                                    <td>MěÚ Světlá nad Sázavou</td>
+                                                                        <td>Veřejná vyhláška</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 24/2026</td>
+                                                                    <td class="nowrap">23.9.2026-24.9.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=301468&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Římskokatolická farnost - děkanství Ledeč nad Sázavou</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 25/2026</td>
+                                                                    <td class="nowrap">21.9.2026-22.9.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=301248&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Hrad Ledeč nad Sázavou, s.r.o.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>RO_03_ZM08_260831</td>
+                                                                    <td class="nowrap">1.9.2026-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=299386&amp;">Rozpočtové opatření č. RO_03_ZM08_260831</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 23/2026</td>
+                                                                    <td class="nowrap">21.7.2026-22.7.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=294520&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Hrad Ledeč nad Sázavou, s.r.o.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">1.7.2026-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=292645&amp;">Schválený závěrečný účet Města Ledeč nad Sázavou za rok 2025</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>RO_02_ZM06_260629</td>
+                                                                    <td class="nowrap">1.7.2026-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=292641&amp;">Rozpočtové opatření č. RO_02_ZM06_260629</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">11.6.2026-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=290557&amp;">Výzva majitelům hrobů a jejich zařízení</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">8.6.2026-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=290127&amp;">Návrh závěrečného účtu Města Ledeč nad Sázavou za rok 2025</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>RO-13/2024-601_Souboř_17</td>
+                                                                    <td class="nowrap">8.6.2026-9.6.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=290105&amp;">Veřejná vyhláška</a>
+                                                                  </td>
+                                                                    <td>Katastrální úřad</td>
+                                                                        <td>Veřejná vyhláška</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">3.6.2026-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=289594&amp;">Schválený závěrečný účet - Svazek obcí mikroregionu Ledečsko za rok 2025</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP17/2026</td>
+                                                                    <td class="nowrap">30.4.2026-30.4.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=285671&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Automotoklub Ledeč nad Sázavou, z.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>RO_01_ZM04_260427</td>
+                                                                    <td class="nowrap">28.4.2026-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=285323&amp;">Rozpočtové opatření č. RO_01_ZM04_260427</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">25.3.2026-26.3.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=282059&amp;">Dodatek č. 18 smlouvy o zabezpečení požární ochrany s Hasičským záchranným sborem Kraje Vysočina</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 10/2026</td>
+                                                                    <td class="nowrap">4.3.2026-5.3.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=279674&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Háta, o.p.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 12/2026</td>
+                                                                    <td class="nowrap">4.3.2026-5.3.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=279665&amp;">Veřejnoprávní smlouva o poskytnutí dotace - HC Ledeč nad Sázavou, z.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 14/2026</td>
+                                                                    <td class="nowrap">4.3.2026-5.3.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=279664&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Oblastní charita Havlíčkův Brod</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 11/2026</td>
+                                                                    <td class="nowrap">4.3.2026-5.3.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=279662&amp;">Veřejnoprávní smlouva o poskytnutí dotace - TJ Kovofiniš Ledeč nad Sázavou</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 01/2026</td>
+                                                                    <td class="nowrap">2.3.2026-2.3.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=279392&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Římskokatolická farnost-děkanství Ledeč n. S., Církevní organizace a náboženská společnost</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 05/2026</td>
+                                                                    <td class="nowrap">2.3.2026-2.3.2029</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=279390&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Fotbalový klub Kovofiniš Ledeč nad Sázavou z.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>RO-21/2026-601</td>
+                                                                    <td class="nowrap">9.2.2026-30.9.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=276975&amp;">Oznámení o vyhlášení revize katastru nemovitostí</a>
+                                                                  </td>
+                                                                    <td>Katastrální úřad</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">28.1.2026-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=276123&amp;">Schválený rozpočet Města Ledeč nad Sázavou na rok 2026</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>MLNS/136/2026/OVS</td>
+                                                                    <td class="nowrap">23.1.2026-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=275749&amp;">Výzva majitelům hrobů a jejich zařízení</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">17.12.2025-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=273112&amp;">Svazek obcí mikroregionu Ledečsko - Schválený rozpočet na rok 2026</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">17.12.2025-18.12.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=273033&amp;">Veřejnoprávní smlouva o poskytnutí návratné finanční výpomoci - FK Kovofiniš Ledeč n.S., z.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 29/2025</td>
+                                                                    <td class="nowrap">16.12.2025-18.12.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=272965&amp;">Veřejnoprávní smlouva o poskytnutí dotace - TJ Sokol Ledeč nad Sázavou</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 26/2025</td>
+                                                                    <td class="nowrap">2.12.2025-4.12.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=271683&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Pavlov, o.p.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 27/2025</td>
+                                                                    <td class="nowrap">24.11.2025-25.11.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=270828&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Fotbalový klub Kovofiniš Ledeč nad Sázavou z.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 25/2025</td>
+                                                                    <td class="nowrap">17.9.2025-18.9.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=263834&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Římskokatolická farnost-děkanství Ledeč n. S.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">16.9.2025-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=263583&amp;">Střednědobý výhled rozpočtu města Ledeč nad Sázavou na období 2026-2030</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 21/2025</td>
+                                                                    <td class="nowrap">30.7.2025-30.7.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=258890&amp;">Veřejnoprávní smlouva o poskytnutí dotace - TJ Sokol Ledeč nad Sázavou</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">25.6.2025-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=255695&amp;">Schválený závěrečný účet Města Ledeč nad Sázavou za rok 2024</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">5.6.2025-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=253517&amp;">Závěrečný účet Svazku obcí mikroregionu Ledečsko za rok 2024</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 17/2025</td>
+                                                                    <td class="nowrap">28.4.2025-28.4.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=249315&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Automotoklub Ledeč nad Sázavou, z.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 14/2025</td>
+                                                                    <td class="nowrap">16.4.2025-17.4.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=248241&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Hrad Ledeč nad Sázavou s.r.o.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 11/2025</td>
+                                                                    <td class="nowrap">26.3.2025-27.3.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=246177&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Fotbalový klub Kovofiniš Ledeč nad Sázavou</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 04/2025</td>
+                                                                    <td class="nowrap">26.3.2025-27.3.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=246176&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Fotbalový klub Kovofiniš Ledeč nad Sázavou</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 09/2025</td>
+                                                                    <td class="nowrap">25.3.2025-27.3.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=245968&amp;">Veřejnoprávní smlouva o poskytnutí dotace - HC Ledeč nad Sázavou, z.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 10/2025</td>
+                                                                    <td class="nowrap">17.3.2025-17.3.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=245212&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Oblastní charita Havlíčkův Brod</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SPU 101553/2025</td>
+                                                                    <td class="nowrap">17.3.2025-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=245195&amp;">Jednoduché pozemkové úpravy v katastrálním území Ledeč nad Sázavou - pověření ke vstupu a vjezdu na pozemky a k výkonu činnosti související s řízením o pozemkových úpravách</a>
+                                                                  </td>
+                                                                    <td>-----</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 07/2025</td>
+                                                                    <td class="nowrap">13.3.2025-13.3.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=244911&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Háta, o.p.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 08/2025</td>
+                                                                    <td class="nowrap">12.3.2025-13.3.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=244787&amp;">Veřejnoprávní smlouva o poskytnutí dotace - TJ Kovofiniš Ledeč n. S.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 01/2025</td>
+                                                                    <td class="nowrap">26.2.2025-26.2.2028</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=243583&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Římskokatolická farnost</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 031/2024</td>
+                                                                    <td class="nowrap">26.11.2024-26.11.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=236802&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Automotoklub Ledeč nad Sázavou, z.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 029/2024</td>
+                                                                    <td class="nowrap">3.10.2024-4.10.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=232522&amp;">Veřejnoprávní smlouva o poskytnutí dotace - Římskokatolická farnost-děkanství Ledeč n. S.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 025/2024</td>
+                                                                    <td class="nowrap">3.7.2024-3.7.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=225650&amp;">Veřejnoprávní smlouva o poskytnutí dotace</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 019/2024</td>
+                                                                    <td class="nowrap">24.5.2024-24.5.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=220518&amp;">Veřejnoprávní smlouva o poskytnutí dotace</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 020/2024</td>
+                                                                    <td class="nowrap">24.5.2024-24.5.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=220517&amp;">Veřejnoprávní smlouva o poskytnutí dotace</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 018/2024</td>
+                                                                    <td class="nowrap">22.5.2024-22.5.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=220303&amp;">Veřejnoprávní smlouva o poskytnutí dotace</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 005/2024</td>
+                                                                    <td class="nowrap">28.3.2024-29.3.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=215023&amp;">Veřejnoprávní smlouva - Oblastní charita Havlíčkův Brod</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 002/2024</td>
+                                                                    <td class="nowrap">20.3.2024-22.3.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=214327&amp;">Veřejnoprávní smlouva - Římskokatolická farnost - děkanství Ledeč nad Sázavou</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 004/2024</td>
+                                                                    <td class="nowrap">18.3.2024-18.3.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=214018&amp;">Veřejnoprávní smlouva - HC Ledeč nad Sázavou</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 008/2024</td>
+                                                                    <td class="nowrap">11.3.2024-11.3.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=213581&amp;">Veřejnoprávní smlouva - Hrad Ledeč nad Sázavou, s.r.o.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 003/2024</td>
+                                                                    <td class="nowrap">6.3.2024-8.3.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=213314&amp;">Veřejnoprávní smlouva - TJ Kovofiniš Ledeč nad Sázavou</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 006/2024</td>
+                                                                    <td class="nowrap">29.2.2024-1.3.2027</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=212905&amp;">Veřejnoprávní smlouva - Háta, o.p.s.</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>SFP 029/2023</td>
+                                                                    <td class="nowrap">20.12.2023-20.12.2026</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=207671&amp;">Veřejnoprávní smlouva o poskytnutí dotace</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">11.12.2023-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=206762&amp;">Schválený střednědobý výhled rozpočtu DSO Ledečsko na roky 2025 - 2029</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">21.12.2022-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=174127&amp;">Střednědobý výhled rozpočtu Ledeč n.S. na období 2023-2027 s analýzou financí a ratingem</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">29.6.2020-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=122924&amp;">Výzva k odstranění osobních vozidel</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>KUJI 34957/2020</td>
+                                                                    <td class="nowrap">6.4.2020-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=119262&amp;">Oznámení</a>
+                                                                  </td>
+                                                                    <td>Krajský úřad kraje Vysočina</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">1.3.2020-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=123075&amp;">Finanční oddělení - oznámení o zveřejnění</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Oznámení</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">23.3.2017-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=87724&amp;">Zveřejnění informací</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td></td>
+                                                                    <td class="nowrap">14.3.2017-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=87723&amp;">Zveřejnění informací</a>
+                                                                  </td>
+                                                                    <td>MěÚ Ledeč nad Sázavou</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                        <tr>
+                                                                    <td>MPSV-UP/6068/15/HB</td>
+                                                                    <td class="nowrap">6.5.2015-do&nbsp;odvolání</td>
+                                <td>
+                                  <a href="/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;detail_claim=42901&amp;">Vzdělávejte se pro růst! - pracovní příležitosti</a>
+                                                                  </td>
+                                                                    <td>-----</td>
+                                                                        <td>Ostatní</td>
+                                                                </tr>
+                                                </table>
+                </div>
+                        </div>
+        <div class="nahled_tisk"><a class="nahled_tisk" href="JavaScript:print();">Tisk stránky</a></div>
+<div class="info_podclankem"><span class="datum_vytvoreni"><strong>Vytvořeno</strong> 14.3.2011 13:41:40</span><span class="pocet_precteni"> | přečteno&nbsp;741902x</span><span class="autor"> | Ing. Michal  Ptáčník</span></div>        </article>
+        <div class="cleaner"></div>
+            </div>
+</main>
+
+<footer>
+    <section class="pruh_logo page_size">
+    <a href="https://www.ledecns.cz" class="logo" title="Titulní strana">
+        <img src="/galerie/1842190.svg" alt="Logo města">
+    </a>
+    <div class="odkazy">
+        <ul>
+            <li class="prihlaseni">
+                <div class="prihlaseni" id="bs_prihlaseni"><a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;subakce=login" class="prihlaseni_text prihlaseni">Přihlášení</a> <a href="javascript:as4uCookieShowStatus();" onclick="javascript:as4uCookieShowStatus();" class="cookies_info_show">Cookies</a>
+</div>            </li>
+            <li><a href="https://www.as4u.cz/" class="public4u" onclick="JavaScript:window.open(this);
+                    return false;">Publikační a redakční systém Public4u © 2000 - 2026</a></li>
+        </ul>
+    </div>
+</section>
+<section class="paticka_hlavni">
+    <div class="obsah page_size">
+        <div class="sloupce">
+            <div class="sloupec">
+                <h4>Kontakty</h4>
+                
+<div>Husovo náměstí č. 7<br>58401 Ledeč nad Sázavou</div><div><div><strong>IČ</strong>: 00267759<br><strong>DIČ</strong>: CZ00267759</div><p><strong>tel</strong>.: 566 466 610 – spojovatelka<br><a href="https://www.ledecns.cz/cs/mestsky-urad/kontakty.html">Kompletní telefonní seznam</a> </p><p><strong>email:</strong><span> </span>podatelna@ledecns.cz</p><p><strong>datová schránka:</strong><span> </span>7jybxks</p></div>  <br>
+            </div>
+            <div class="sloupec">
+                <h4>Důležité odkazy</h4>
+                
+<ul><li><a class="link_clanek" href="https://www.ledecns.cz/cs/mesto-a-samosprava/">Město a samospráva</a></li><li><a class="link_clanek" href="https://www.ledecns.cz/cs/mestsky-urad/">Městský úřad</a><br></li><li><a href="https://www.ledecsko.cz" onclick="javajcript:window.open(this); return false" title="otevře odkaz v novém okně">Informační centrum</a></li><li><a href="https://www.kr-vysocina.cz/" onclick="javajcript:window.open(this); return false" title="otevře odkaz v novém okně">Kraj Vysočina</a></li></ul><div><br></div><div><ul><li><a class="link_clanek" href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/prohlaseni-o-pristupnosti.html">Prohlášení o přístupnosti</a></li></ul></div>
+            </div>
+            <div class="sloupec">
+                <h4>Nejčastěji vyhledávané</h4>
+                
+<ul><li><a class="link_clanek" href="https://www.ledecns.cz/cs/mesto/o-meste.html">O městě</a></li><li><a class="link_clanek" href="https://www.ledecns.cz/cs/mestsky-urad/kontakty.html">Kontakty</a></li><li><a href="https://www.ledecsko.cz/akce/" onclick="javajcript:window.open(this); return false" title="otevře odkaz v novém okně">Akce</a></li></ul>
+            </div>
+        </div>
+        <div class="mapa" style="background: green;">
+            <iframe style="border:none;width:100%;height:100%" src="https://frame.mapy.cz/s/lopajanemu" frameborder="0" title="Mapa"></iframe>
+        </div>
+    </div>
+</section></footer>
+<input type="hidden" name="portal_4_js" id="portal_4_js" value="2179">
+<nav class="mob_menu" id="mob_menu_ng">
+    <section class="mob_hlavicka">
+        <a href="https://www.ledecns.cz" class="logo" title="Hlavní stránka">
+                            <span class="nadpis">Ledeč nad Sázavou</span>
+                                    <span class="podnadpis">oficiální stránky obce</span>
+                    </a>
+        <a href="javascript:open_mob_menu();" class="mob_menu_close" title="Zavřít menu"></a>
+    </section>
+    <div class="mob_menu_overflow">
+        <section class="mob_vyhledavani ">
+                            <div class="vyhledavani_obal">
+                    <form class="vyhledavani" action="/redakce/index.php" method="get" id="as4u_form_mobile_search">
+                        <input type="hidden" name="xuser" value="" />
+                        <input type="hidden" name="lanG" value="cs" />
+                                                <input type="hidden" name="subakce" value="scearch" />
+                        <input type="text" name="scearchText" id="find_in_redakce_m" class="textpole_vyhledavani" placeholder="zadejte hledanou frázi" accesskey="4" />
+                        <input type="submit" value="vyhledat" title="vyhledat" class="tlacitko_vyhledat" />
+                    </form>
+                </div>
+                    </section>
+                    <section class="mob_rychl_odkazy">
+                <div class="vypis">
+                                                <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;clanek=49751&amp;slozka=50690&amp;xsekce=49709&amp;as4uOriginalDomain=www.ledecns.cz&amp;rootPathFix=.%2F..%2F..%2F..%2F&amp;as4u_protocol=https&amp;ConfirmCookieA=yes&amp;ConfirmCookieS=yes&amp;ConfirmCookie=agree&amp;subakce=news&amp;" >Aktuality</a>
+                                                <a href="https://www.ledecsko.cz/akce/" >Akce</a>
+                                    </div>
+            </section>
+                <section class="mob_navi" id="mob_menu_ajx">
+                <div class="mob_navi_hlavicka">
+                <span class="mob_navi_hlavicka_nadpis">Elektronická úřední deska</span>
+    </div>
+            <div class="mob_navi_vypis">
+            <a href="javascript:prenacti_menu(50690);" class="mob_navi_zpet">Zpět</a>
+        </div>
+            <ul class="mob_navi_clanky ">
+                <li class="mob_menu_li_plny test_ typ_3 aktivni">
+        <span class="mob_navi_li_ico">
+                            <span class="def_ikona_clanku"></span>
+                    </span>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html" class="nazev">Aktuální oznámení</a>
+            </li>
+    <li class="mob_menu_li_plny test_ typ_3">
+        <span class="mob_navi_li_ico">
+                            <span class="def_ikona_clanku"></span>
+                    </span>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/vyhledavani.html" class="nazev">Vyhledávání</a>
+            </li>
+        </ul>
+        </section>
+            </div>
+</nav><div id="galery_view_transparent" style="position: absolute; display: none; top: 0px; left: 0px; z-index: 30; background: black; width: 500px; height: 500px; padding: 0px; margin: 0px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70); -moz-opacity: 0.7; opacity: 0.7;"></div><div id="galery_view" style="position: absolute; display: none; top: 0px; left: 0px; z-index: 31; width: 0px; height: 0px; padding: 0px; margin: 0px;"></div><div><img src="/images/gallery/loading.gif" alt="load" style="display: none; border: 0;" /></div><div id="ajax_transparent" style="position: absolute; display: none; top: 0px; left: 0px; z-index:21; background: black; width: 500px; height: 500px; padding: 0px; margin: 0px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70); -moz-opacity: 0.7; opacity: 0.7;"></div><div id="ajax_view" style="position: absolute; display: none; top: 0px; left: 0px; z-index:22; background: white;">
+<div id="ajax_view_close" style="position: relative; background-color: black; height: 20px; line-height: 20px; font-size:12px; color-white;"><a href="javascript:closeajax()" style="text-decoration: underline; color: white; text-align:center; display: block; width: 24px; height: 20px; position: absolute; top:0px; right: 0px;" title="zavřít"><strong>X</strong></a></div>
+<div id="ajax_content" style="position: relative; background:white; overflow: auto;"></div>
+</div>
+  <div class="cookies_info_v22" id="cookies_info" style="display: none;">
+    <div class="cookies_info_in">
+      <div class="cookies_info_text">
+        <h3>Nastavení soukromí</h3>
+        <p>
+          Na těchto webových stránkách se používají soubory cookies a další síťové identifikátory, které jsou nezbytné pro provoz některých funkcionalit webu.<br />
+        </p>
+                  <div class="checkboxy">
+                        <p>Souhlasím s použitím statistických cookies, které umožňují měřit návštěvnost webu <label for="cookies_statistics_stat"><input type="checkbox" id="cookies_statistics_stat"><span></span></label></p>
+                        <p>Souhlasím s použitím analytických cookies, které umožňují měřit výkon webu <label for="cookies_analytics_vyk"><input type="checkbox" id="cookies_analytics_vyk"><span></span></label></p>
+                        <a href="javascript:as4uCookiesConfirm('agree');" onclick="javascript:as4uCookiesConfirm('agree');" class="cookies_info_confirm">Uložit nastavení</a>
+          </div>
+        
+      </div>
+
+      <div class="cookies_info_odkazy">
+        <a href="javascript:as4uCookiesConfirm('agree_all');" onclick="javascript:as4uCookiesConfirm('agree_all');" class="cookies_info_confirm">Přijímám vše</a>
+        <a href="javascript:as4uCookiesConfirm('rejct');" onclick="javascript:as4uCookiesConfirm('rejct');" class="cookies_info_refuse ">Odmítám</a>
+                <a href="https://www.ledecns.cz/cs/clanky/cookies.html" class="cookies_info_moreinfo">Více informací</a>
+        <!--<a href="javascript:as4uCookiesConfirm('defered');" onclick="javascript:as4uCookiesConfirm('defered');" class="cookies_close" title="Nebudu nastavovat"></a>-->
+
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
+

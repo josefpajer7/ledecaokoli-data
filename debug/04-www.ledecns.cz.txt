@@ -1,0 +1,547 @@
+URL: https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&
+STATUS: 200
+
+<!DOCTYPE html>
+<html lang="cs">
+                                                                                                   
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <link rel="shortcut icon" href="https://www.ledecns.cz/favicon.ico" type="image/x-icon"  />
+  <title>Ledeč nad Sázavou</title>
+  <meta name="keywords" content="Ledeč nad Sázavou" />
+  <meta name="description" content="Ledeč nad Sázavou" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.ledecns.cz/rss.xml" />
+  <meta name="robots" content="ALL,FOLLOW" />
+  <meta name="author" content="as4u.cz, s.r.o." />
+  <meta name="authormail" content="company@as4u.cz" />
+  <meta name="authorweb" content="http://www.as4u.cz" />
+  <meta name="generator" content="Public4u" />
+  
+  <link href="/redakce/rs/ledec_nad_sazavou_2023/ledec.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/redakce/inc/sablona/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <link href="/css/gallery.css" rel="stylesheet" type="text/css" media="screen" />
+  <script src="./../js/jquery.js?ver=1327643657" type="text/javascript"></script>
+  <script src="./../js/jquery-ui.js?ver=1330503162" type="text/javascript"></script>
+  <script src="./../js/nove_okno_obrazku.js?ver=1779704200" type="text/javascript"></script>
+  <script src="./../js/redakce.js?ver=1742216419" type="text/javascript"></script>
+  <script src="./../js/ajax_load.js?ver=1330175158" type="text/javascript"></script>
+  <script src="./../js/gallery4u.js?ver=1790855196" type="text/javascript"></script>
+  <script src="./../js/as4u_popup.js?ver=1741627165" type="text/javascript"></script>
+  <script src="https://www.ledecns.cz/redakce/rs/ledec_nad_sazavou_2023/ledec.js" type="text/javascript"></script>
+  <script src="/redakce/inc/sablona/js/kalendar.js" type="text/javascript"></script><script src="/redakce/inc/sablona/mobilni_menu/mobilni_menu.js" type="text/javascript"></script><link href="/redakce/inc/sablona/mobilni_menu/mobilni_menu.css" rel="stylesheet" type="text/css" media="screen"><script type="text/javascript">var urltomenuajax = location.protocol + "//" + document.location.host + "/redakce/inc/sablona/mobilni_menu/ajax.php?portal=2179&lanG=cs&subakce=";</script>
+  <meta property="og:title" content="Ledeč nad Sázavou"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="https://www.ledecns.cz/galerie/790351.png"/>
+  <meta property="og:image:width" content="314"/>
+  <meta property="og:image:height" content="194"/>
+  <meta property="og:url" content="https://www.ledecns.cz"/>
+  <meta property="og:site_name" content="Ledeč nad Sázavou"/>
+  <meta property="og:description" content=""/>
+  <meta property="fb:admins" content="michal.ptacnik.520"/>
+</head><body >
+<header id="topnav_id" class="subakce">
+    <div class="search_win">
+    <div class="obsah_v">
+        <div class="search_close_clona"></div>
+        <div class="vyhledavani_obal">
+    <form class="vyhledavani" action="/redakce/index.php" method="get" id="as4u_form_search">
+        <input type="hidden" name="xuser" value="">
+        <input type="hidden" name="lanG" id="search_actualLang" value="cs">
+         
+        <input type="hidden" name="subakce" value="scearch">
+        <input type="text" name="scearchText" id="find_in_redakce" class="textpole_vyhledavani" placeholder="zadejte hledanou frázi" accesskey="4">
+        <input type="submit" value="vyhledat" title="vyhledat" class="tlacitko_vyhledat">
+    </form>
+</div>        <span class="search_open"></span>
+    </div>
+</div>
+<div class="top_bar">
+    <div class="obsah">
+                <a href="https://www.ledecns.cz" class="logo" title="Titulní strana">
+            <img src="/galerie/1842190.png" alt="Logo města">
+        </a>
+        <div class="top_menu">
+            <div class="odkazy odkaz_item">
+                <a
+                    href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;">Aktuality</a>
+                <a href="https://www.ledecsko.cz/akce/">Akce</a>
+            </div>
+            <a href="tel:566466610" class="kontakt search_icon odkaz_item">
+                <span class="cislo">+420 566 466 610</span>
+                <span class="ikona">
+                    <img src="/galerie/1842188.svg" alt="Ikona telefonu">
+                </span>
+            </a>
+            <div class="search search_icon odkaz_item search_open"></div>
+            <div class="mobile_menu odkaz_item" onclick="open_mob_menu()">
+                <span class="top"></span>
+                <span class="mid"></span>
+                <span class="bot"></span>
+            </div>
+        </div>
+    </div>
+</div>
+</header>
+<main class="">
+    <div
+        class="main_obsah stranka_subakce page_size news">
+        <section class="navigace">
+    <nav class="hlavni page_size">
+        <ul>
+            <li class="karta karta_1">
+    <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/" class="nadpis">
+        <span class="icon"><img src="https://www.ledecns.cz/galerie/1842189_80_80.svg" alt="Město a samospráva"></span>
+        <span class="nadpis">Město a samospráva</span>
+    </a>
+    <div class="podsekce">
+        <ul class="submenu">
+                <li>
+        <a href="https://www.ledecns.cz/cs/mesto/o-meste.html" class="nadpis_menu">O městě</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto/symboly-mesta.html" class="nadpis_menu">Symboly města</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/vedeni-mesta.html" class="nadpis_menu">Vedení města</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/rada-mesta/" class="nadpis_menu">Rada města</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/zastupitelstvo-mesta/" class="nadpis_menu">Zastupitelstvo města</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/organizace-mesta/" class="nadpis_menu">Organizace města</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/dotazy.html" class="nadpis_menu">Dotazy</a>
+    </li>
+        </ul>
+        <div class="obal_odkazu">
+            <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/" class="btn">Zobrazit více <img src="/galerie/1842201.svg" alt=""></a>
+        </div>
+    </div>
+</li><li class="karta karta_2">
+    <a href="https://www.ledecns.cz/cs/mestsky-urad/" class="nadpis">
+        <span class="icon"><img src="https://www.ledecns.cz/galerie/1842193_80_80.svg" alt="Městský úřad"></span>
+        <span class="nadpis">Městský úřad</span>
+    </a>
+    <div class="podsekce">
+        <ul class="submenu">
+                <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/kontakty.html" class="nadpis_menu">Kontakty</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/" class="nadpis_menu">Elektronická úřední deska</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/povinne-zverejnovane-informace-1.html" class="nadpis_menu">Povinně zveřejňované informace</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/organizacni-struktura-1.html" class="nadpis_menu">Organizační struktura</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/" class="nadpis_menu">Dokumenty</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/krizove-rizeni/" class="nadpis_menu">Krizové řízení</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/sprava-hrbitova.html" class="nadpis_menu">Správa hřbitova</a>
+    </li>
+        </ul>
+        <div class="obal_odkazu">
+            <a href="https://www.ledecns.cz/cs/mestsky-urad/" class="btn">Zobrazit více <img src="/galerie/1842201.svg" alt=""></a>
+        </div>
+    </div>
+</li><li class="karta karta_3">
+    <a href="https://www.ledecns.cz/cs/pro-obcany-1/" class="nadpis">
+        <span class="icon"><img src="https://www.ledecns.cz/galerie/1842195_80_80.svg" alt="Pro občany"></span>
+        <span class="nadpis">Pro občany</span>
+    </a>
+    <div class="podsekce">
+        <ul class="submenu">
+                <li>
+        <a href="https://www.ledecns.cz/cs/pro-obcany/ztraty-a-nalezy.html" class="nadpis_menu">Ztráty a nálezy</a>
+    </li>
+    <li>
+        <a href="https://app.gisonline.cz/ledec-nad-sazavou" class="nadpis_menu">Mapový portál</a>
+    </li>
+    <li>
+        <a href="https://www.ledecsko.cz/akce/" class="nadpis_menu">Všechny akce</a>
+    </li>
+    <li>
+        <a href="https://www.ledecsko.cz/tipy-na-vylet/" class="nadpis_menu">Tipy na výlety</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/pro-obcany/sportoviste-ve-meste.html" class="nadpis_menu">Sportoviště ve městě</a>
+    </li>
+    <li>
+        <a href="https://www.ledecns.cz/cs/pro-obcany/zpravodaj-mesta-ledce-nad-sazavou/" class="nadpis_menu">Zpravodaj města Ledče nad Sázavou</a>
+    </li>
+    <li>
+        <a href="http://habrek.ledecns.cz/" class="nadpis_menu">Spolkový dům Habrek - rezervace</a>
+    </li>
+        </ul>
+        <div class="obal_odkazu">
+            <a href="https://www.ledecns.cz/cs/pro-obcany-1/" class="btn">Zobrazit více <img src="/galerie/1842201.svg" alt=""></a>
+        </div>
+    </div>
+</li>        </ul>
+    </nav>
+</section>        <aside id="el_menu_clanku" class="leve_menu">
+            <div class="sloupec_navigace">
+<h4 class="nadpis_navigace"><span class="nadpis_navigace">Navigace</span></h4>
+<ul class="navigace"><li class="clanek_mimo_sekci oddil_mimo_sekci" id="lnav_50770"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/mesto-a-samosprava/">Město a samospráva</a></li><li class="clanek_mimo_sekci oddil_mimo_sekci" id="lnav_50690"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/mestsky-urad/">Městský úřad</a></li><li class="clanek_mimo_sekci oddil_mimo_sekci" id="lnav_149757"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/pro-obcany-1/">Pro občany</a></li><li class="clanek_mimo_sekci" id="lnav_50186"><a class="clanek_mimo_sekci" href="https://www.ledecns.cz/cs/clanky-3/">Články</a></li></ul>
+<div class="cleaner">&nbsp;</div>
+</div>
+        </aside>
+        <article
+            class="clanek_body news">
+            <div class="cesta_ke_clanku"><a href="https://www.ledecns.cz">Úvodní strana</a></div>
+<h1 class="nadpis_aktualit" id="nadpis_aktuality_titulka">Aktuality</h1>
+<div class="aktuality_vypis"><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/cs/clanky/vylukove-jizdni-rady-linek-603240-a-357270-od-21-10-2026.html"  title="Výlukové jízdní řády linek 603240 a 357270 od 21.10.2026">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="Výlukové jízdní řády linek 603240 a 357270 od 21.10.2026">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">19. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/cs/clanky/vylukove-jizdni-rady-linek-603240-a-357270-od-21-10-2026.html" >Výlukové jízdní řády linek 603240 a 357270 od 21.10.2026</a></h3>
+        <div class="text">
+            <p>
+
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/cs/clanky/vylukove-jizdni-rady-linek-603240-a-357270-od-21-10-2026.html"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/cs/clanky/vylukove-jizdni-rady-linek-603230-a-60323.html"  title="Výlukové jízdní řády linek 603230 a 60323">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="Výlukové jízdní řády linek 603230 a 60323">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">13. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/cs/clanky/vylukove-jizdni-rady-linek-603230-a-60323.html" >Výlukové jízdní řády linek 603230 a 60323</a></h3>
+        <div class="text">
+            <p>
+
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/cs/clanky/vylukove-jizdni-rady-linek-603230-a-60323.html"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709796"  title="Zvolení zastupitelé města Ledeč nad Sázavou">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="Zvolení zastupitelé města Ledeč nad Sázavou">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">10. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709796" >Zvolení zastupitelé města Ledeč nad Sázavou</a></h3>
+        <div class="text">
+            <p>
+<p>Výsledky naleznete na odkazu   <a href="https://volby.gov.cz/app/kv2026/cs/20261009/name-lists/!_7__6100_6101_568988" onclick="javajcript:window.open(this); return false" title="otevře odkaz v novém okně">Jmenné seznamy a přehledy | volby.gov.cz</a> (klikněte na tlačítko více...)</p>
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709796"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709756"  title="Proč se při opravě ulic Hradní a Nad Lesem nebudují nové chodníky a obrubníky?">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="Proč se při opravě ulic Hradní a Nad Lesem nebudují nové chodníky a obrubníky?">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">09. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709756" >Proč se při opravě ulic Hradní a Nad Lesem nebudují nové chodníky a obrubníky?</a></h3>
+        <div class="text">
+            <p>
+<p>V souvislosti s opravou komunikací v ulicích Hradní a Nad Lesem se objevují dotazy, proč město současně s novým asfaltovým povrchem nebuduje také nové chodníky a obrubníky. Rádi bychom proto vysvětlili důvody zvoleného řešení.<br><strong>Především je důležité zdůraznit, že se jedná o opravu stávajících komunikací, nikoliv o jejich celkovou rekonstrukci či výstavbu nových komunikací.</strong> Rozsáhlejší rekonstrukce zahrnující nové chodníky, obrubníky a změny uspořádání komunikací by vyžadovala projektovou přípravu, splnění příslušných technických a legislativních požadavků a podle rozsahu také povolení stavebního úřadu. To by znamenalo výrazně vyšší náklady a podstatně delší dobu přípravy i realizace.  <strong>Vybudování chodníků navíc v této lokalitě naráží na prostorové a praktické možnosti.</strong> Vzhledem ke stávajícímu uspořádání ulic by chodníky neměly odpovídající návaznost na další pěší trasy, jejich umístění by bylo prostorově problematické a zároveň by výrazně omezilo, případně znemožnilo dosavadní parkování podél komunikací.<br><strong>Podstatným důvodem pro zachování stávajícího uspořádání bez obrubníků je také odvodnění.</strong> V dotčených ulicích není vybudována dešťová kanalizace ani jiné odpovídající zařízení pro odvod srážkových vod. Současné řešení umožňuje přirozený odtok vody do přilehlých nezpevněných ploch a její vsakování. Osazení souvislých zvýšených obrubníků by tento způsob odvodnění narušilo a vyžadovalo by vybudování nového systému odvádění dešťových vod.<br><strong>Cílem města je nyní především kvalitně a v co nejkratším čase opravit nevyhovující povrch komunikací.</strong> Zachování stávajícího uspořádání tedy není opomenutím, ale záměrným řešením, které zohledňuje technické, prostorové i finanční možnosti dané lokality.<br>Děkujeme obyvatelům za pochopení a věříme, že provedená oprava přispěje k výraznému zlepšení stavu obou komunikací.      <br></p>
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709756"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/cs/clanky/vysocina-pecuje-1.html"  title="Vysočina pečuje">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="Vysočina pečuje">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">07. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/cs/clanky/vysocina-pecuje-1.html" >Vysočina pečuje</a></h3>
+        <div class="text">
+            <p>
+
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/cs/clanky/vysocina-pecuje-1.html"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709614"  title="Změna počtu parkovacích automatů na Husově náměstí">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="Změna počtu parkovacích automatů na Husově náměstí">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">06. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709614" >Změna počtu parkovacích automatů na Husově náměstí</a></h3>
+        <div class="text">
+            <p>
+<p>Město Ledeč nad Sázavou informuje občany a návštěvníky města, že počet parkovacích automatů určených k úhradě parkovného na Husově náměstí byl snížen z původních šesti na tři. Na každé části náměstí je nadále k dispozici jeden parkovací automat, což je s ohledem na jejich rozmístění, vzájemnou dostupnost a současné využití dostačující pro zajištění možnosti úhrady parkovného.<br>Vzhledem k tomu, že se jedná o technologicky starší zařízení, nepovažuje město v současné době za účelné investovat finanční prostředky do pořízení dalších automatů stejného či obdobného typu.<br>Současné uspořádání je proto třeba vnímat jako přechodné řešení. Do budoucna bude vhodné problematiku placeného parkování na náměstí posoudit komplexně, a to nejen z hlediska počtu a typu parkovacích automatů, ale také s ohledem na možnosti modernějších způsobů úhrady parkovného a celkovou organizaci parkování v centru města.<br>S ohledem na blížící se konec stávajícího volebního období považuje město za vhodné ponechat rozhodnutí o případné větší investici a budoucí podobě systému placeného parkování na novém vedení města. Do doby, než bude rozhodnuto o dalším způsobu řešení této problematiky, budou občanům a návštěvníkům města k dispozici tři stávající parkovací automaty.  Děkujeme za pochopení.        <br></p>
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709614"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709575"  title="Výzva k odstranění větví přerůstajících ze soukromých pozemků do veřejného prostranství">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="Výzva k odstranění větví přerůstajících ze soukromých pozemků do veřejného prostranství">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">05. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709575" >Výzva k odstranění větví přerůstajících ze soukromých pozemků do veřejného prostranství</a></h3>
+        <div class="text">
+            <p>
+<p>S blížícím se koncem vegetačního období vyzýváme všechny vlastníky, případně správce nemovitostí k ořezání částí rostlin a větví stromů či keřů, které ze soukromých pozemků přerůstají do veřejného prostoru. Přerostlá zeleň často zasahuje do chodníků nebo komunikací, kde komplikuje pohyb chodců nebo průjezd vozidel. Při úpravě zeleně dodržujte následující pokyny:<br>- průchozí výška nad      chodníky: větve musí být ořezány do výšky min. 2,5      m<br>- průjezdná výška nad      vozovkou: větve zasahující do silnice musí být odstraněny do výšky min.      4,5 m<br>- dopravní značení a      osvětlení: zeleň nesmí zakrývat pouliční lampy, obecní rozhlas ani      dopravní značky.<br>Žádáme o provedení těchto úprav nejpozději <strong>do konce listopadu 2026.</strong> Pokud nedojde k nápravě, může městský úřad zajistit ořez na náklady vlastníka v souladu s platnými předpisy.<br>K odevzdání většího množství ořezané hmoty (více než se vejde do kufru auta) využívejte separační stanoviště v prostoru bývalé skládky na Rašovci (otevírací doba čt a so 13.00 – 16.00, neděle 09.00 – 11.00), hnědé kontejnery rozmístěné na území města jsou určené především na drobný bioodpad z domácností.<br>Dále upozorňujeme vlastníky stromů, že jsou povinni zajistit, aby <strong>plody ani jiné části dřevin (větve, listí) neohrožovaly bezpečnost na veřejném prostranství. </strong>Veřejné prostranství tvoří výjimku z Občanského zákoníku a platí, že <strong>plody spadané na chodník či silnici zůstávají majetkem vlastníka stromu a ten má povinnost předcházet škodám a nepořádku. </strong>Pokud tedy plody ze soukromého pozemku padají na chodník nebo silnici, musí majitel stromu zajistit jejich úklid. Hnijící ovoce může způsobit uklouznutí chodců nebo znečištění prostranství. Za možné způsobení újmy na zdraví odpovídá vlastník stromu z důvodu zanedbání prevenční povinnosti.<br><i>Děkujeme za vaše pochopení, spolupráci a ohleduplnost vůči všem spoluobčanům užívajících veřejný prostor.<br>Městský úřad, OdŽP </i>           <br><br><br></p>
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709575"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709485"  title="Aktuální harmonogram prací v ulicích Hradní a Nad Lesem">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="Aktuální harmonogram prací v ulicích Hradní a Nad Lesem">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">02. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709485" >Aktuální harmonogram prací v ulicích Hradní a Nad Lesem</a></h3>
+        <div class="text">
+            <p>
+<p>Město Ledeč nad Sázavou informuje obyvatele ulic Hradní a Nad Lesem o plánovaném průběhu prací v příštím týdnu. Oprava komunikací se již blíží do závěrečné fáze a pokud budou příznivé klimatické podmínky, měla by být hlavní část prací do konce příštího týdne dokončena.  <br>- <strong>Pondělí 5. 10. 2026 – proběhne recyklace komunikace za studena, a to za úplné uzavírky komunikace.</strong> <br> - Úterý 6. 10. a středa 7. 10. 2026 – bude následovat nezbytná technologická přestávka. <strong>V úterý zůstane komunikace zcela uzavřena</strong>, ve středu bude majitelům nemovitostí v dotčených ulicích umožněn vjezd. <br> - <strong>Čtvrtek 8. 10. a pátek 9. 10. 2026 – je plánována pokládka nového asfaltového povrchu, a to za úplné uzavírky komunikace.</strong>    <br><strong>- Sobota 10. 10. 2026 – pokud bude počasí přát a práce budou probíhat podle předpokládaného harmonogramu, měla by být oprava dokončena a komunikace opět zprůjezdněna.  <br></strong>Prosíme obyvatele dotčené lokality ještě o několik dní trpělivosti a o respektování dopravního značení a pokynů pracovníků stavby. Uvědomujeme si, že probíhající práce a omezený přístup k nemovitostem představují pro místní obyvatele komplikaci. Dobrou zprávou je, že se oprava již blíží ke konci a <strong>při příznivém počasí by měla být komunikace v sobotu 10. října opět průjezdná.  <br></strong>V případě potřeby je možné obrátit se přímo na stavbyvedoucího: Zdeněk Janoušek, tel. 724 703 946.    Časový harmonogram prací zhotovitele k nahlédnutí <a class="link_soubor" href="https://www.ledecns.cz/filemanager/files/5188903.pdf" onclick="JavaScript:window.open(this); return false" title="*.pdf, 553.69 KB"><img src="/filemanager/icons/pdf.gif" width="21px" height="16px" alt="ikona souboru" class="as4u_ikona_souboru" style="border: 0px; vertical-align: middle;">zde</a>. <br>Děkujeme všem obyvatelům za dosavadní trpělivost, pochopení a spolupráci během realizace prací.        <br></p>
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709485"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/cs/clanky/odstavka-elektriny-25.html"  title="ODSTÁVKA ELEKTŘINY">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="ODSTÁVKA ELEKTŘINY">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">01. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/cs/clanky/odstavka-elektriny-25.html" >ODSTÁVKA ELEKTŘINY</a></h3>
+        <div class="text">
+            <p>
+
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/cs/clanky/odstavka-elektriny-25.html"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709441"  title="Beseda - Volí se v USA demokraticky? Historický vývoj a podoba (zatím) nejdůležitějších voleb na světě">
+            <img src="https://www.ledecns.cz/galerie/2291789_71_100.png" alt="Beseda - Volí se v USA demokraticky? Historický vývoj a podoba (zatím) nejdůležitějších voleb na světě">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">01. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709441" >Beseda - Volí se v USA demokraticky? Historický vývoj a podoba (zatím) nejdůležitějších voleb na světě</a></h3>
+        <div class="text">
+            <p>
+<p>Beseda se zaměří na historický vývoj a současnou podobu volebního systému v USA, jedné z největších demokracií světa. Prozkoumáme, jak se postupně vyvíjely americké volby od prvních prezidentských voleb až po současnost, včetně klíčových změn v hlasovacích právech, volební reformy a technologických inovací. Pozornost bude věnována i výzvám, kterým americký volební systém čelí dnes, a otázkám, zda skutečně odráží demokratickou vůli občanů. Přednáška nabídne ucelený pohled na volební proces v USA, který je považován za vzor pro mnoho dalších zemí.  <br>Místo konání - Městská knihovna, dne 24.11.2026 od 17:00.</p>
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709441"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/cs/clanky/mestska-policie-zruc-nad-sazavou-hleda-straznika-nebo-straznici.html"  title="Městská policie Zruč nad Sázavou hledá strážníka nebo strážnici">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="Městská policie Zruč nad Sázavou hledá strážníka nebo strážnici">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">01. 10. 2026</span>
+        <h3><a href="https://www.ledecns.cz/cs/clanky/mestska-policie-zruc-nad-sazavou-hleda-straznika-nebo-straznici.html" >Městská policie Zruč nad Sázavou hledá strážníka nebo strážnici</a></h3>
+        <div class="text">
+            <p>
+
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/cs/clanky/mestska-policie-zruc-nad-sazavou-hleda-straznika-nebo-straznici.html"  class="btn">více</a>
+    </div>
+</article><article class="aktualita blok">
+    <figure class="obrazek obr_cover">
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709226"  title="Úplná uzavírka ulic Hradní a Nad Lesem z důvodu opravy komunikací">
+            <img src="https://www.ledecns.cz/galerie/1842623_100_100.png" alt="Úplná uzavírka ulic Hradní a Nad Lesem z důvodu opravy komunikací">
+        </a>
+    </figure>
+    <div class="info">
+        <span class="datum">29. 09. 2026</span>
+        <h3><a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709226" >Úplná uzavírka ulic Hradní a Nad Lesem z důvodu opravy komunikací</a></h3>
+        <div class="text">
+            <p>
+<p>Město Ledeč nad Sázavou informuje občany, že v souvislosti s plánovanou komplexní opravou povrchu komunikací v ulicích <strong>Hradní a Nad Lesem</strong> dojde v termínu <strong>od 29. září do 30. října 2026 k úplné uzavírce dotčených úseků těchto ulic</strong>. Uzavírka bude platit pro veškerý provoz, s výjimkou vozidel s povolením stavby.    Zhotovitelem stavby je společnost SWIETELSKY stavební s.r.o. V průběhu realizace je nutné počítat s <strong>dočasným omezením příjezdu k jednotlivým nemovitostem</strong>. Zhotovitel se bude v rámci možností a s ohledem na aktuálně prováděné práce snažit potřebám místních obyvatel vyhovět a umožnit jim přístup či příjezd k jejich nemovitostem vždy, když to technologický postup prací dovolí.<strong> Kontakt na</strong><strong> stavbyvedoucího, na kterého se mohou občané v případě potřeby obracet a individuálně s ním řešit nezbytný příjezd k nemovitosti: Zdeněk Janoušek, tel.: 724 703 946. </strong>Po dobu uzavírky bude v místě osazeno přechodné dopravní značení podle schválené situace.  Prosíme proto obyvatele i ostatní účastníky silničního provozu o respektování dopravního značení a pokynů pracovníků stavby.   Rozhodnutí o stanovení přechodné úpravy provozu a situace dopravního značení jsou přiloženy <a class="link_soubor" href="https://www.ledecns.cz/filemanager/files/5178570.pdf" onclick="JavaScript:window.open(this); return false" title="*.pdf, 122.3 KB"><img src="/filemanager/icons/pdf.gif" width="21px" height="16px" alt="ikona souboru" class="as4u_ikona_souboru" style="border: 0px; vertical-align: middle;">zde</a> a <a class="link_soubor" href="https://www.ledecns.cz/filemanager/files/5178571.pdf" onclick="JavaScript:window.open(this); return false" title="*.pdf, 968.6 KB"><img src="/filemanager/icons/pdf.gif" width="21px" height="16px" alt="ikona souboru" class="as4u_ikona_souboru" style="border: 0px; vertical-align: middle;">zde</a>.<br>  Děkujeme všem obyvatelům za trpělivost, vstřícnost a pochopení během provádění prací.  <br><br><br></p>
+</p>
+        </div>
+        <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;#akt1709226"  class="btn">více</a>
+    </div>
+</article></div><div class="starsi_novejsi"><strong>1</strong> <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=12&#nadpis_aktuality_titulka">2</a> <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=24&#nadpis_aktuality_titulka">3</a> <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=36&#nadpis_aktuality_titulka">4</a> <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=48&#nadpis_aktuality_titulka">5</a> <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=60&#nadpis_aktuality_titulka">6</a>               [...] <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=228&#nadpis_aktuality_titulka">20</a>                     [...] <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=468&#nadpis_aktuality_titulka">40</a>                     [...] <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=708&#nadpis_aktuality_titulka">60</a>                     [...] <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=948&#nadpis_aktuality_titulka">80</a>                     [...] <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=1188&#nadpis_aktuality_titulka">100</a>                     [...] <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=1428&#nadpis_aktuality_titulka">120</a>     [...] <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&od=1476&#nadpis_aktuality_titulka">124</a> <a class="starsi theme_color" href="/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;od=12&amp;#nadpis_aktuality_titulka">starší</a></div>        </article>
+        <div class="cleaner"></div>
+            </div>
+</main>
+
+<footer>
+    <section class="pruh_logo page_size">
+    <a href="https://www.ledecns.cz" class="logo" title="Titulní strana">
+        <img src="/galerie/1842190.svg" alt="Logo města">
+    </a>
+    <div class="odkazy">
+        <ul>
+            <li class="prihlaseni">
+                <div class="prihlaseni" id="bs_prihlaseni"><a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;subakce=login" class="prihlaseni_text prihlaseni">Přihlášení</a> <a href="javascript:as4uCookieShowStatus();" onclick="javascript:as4uCookieShowStatus();" class="cookies_info_show">Cookies</a>
+</div>            </li>
+            <li><a href="https://www.as4u.cz/" class="public4u" onclick="JavaScript:window.open(this);
+                    return false;">Publikační a redakční systém Public4u © 2000 - 2026</a></li>
+        </ul>
+    </div>
+</section>
+<section class="paticka_hlavni">
+    <div class="obsah page_size">
+        <div class="sloupce">
+            <div class="sloupec">
+                <h4>Kontakty</h4>
+                
+<div>Husovo náměstí č. 7<br>58401 Ledeč nad Sázavou</div><div><div><strong>IČ</strong>: 00267759<br><strong>DIČ</strong>: CZ00267759</div><p><strong>tel</strong>.: 566 466 610 – spojovatelka<br><a href="https://www.ledecns.cz/cs/mestsky-urad/kontakty.html">Kompletní telefonní seznam</a> </p><p><strong>email:</strong><span> </span>podatelna@ledecns.cz</p><p><strong>datová schránka:</strong><span> </span>7jybxks</p></div>  <br>
+            </div>
+            <div class="sloupec">
+                <h4>Důležité odkazy</h4>
+                
+<ul><li><a class="link_clanek" href="https://www.ledecns.cz/cs/mesto-a-samosprava/">Město a samospráva</a></li><li><a class="link_clanek" href="https://www.ledecns.cz/cs/mestsky-urad/">Městský úřad</a><br></li><li><a href="https://www.ledecsko.cz" onclick="javajcript:window.open(this); return false" title="otevře odkaz v novém okně">Informační centrum</a></li><li><a href="https://www.kr-vysocina.cz/" onclick="javajcript:window.open(this); return false" title="otevře odkaz v novém okně">Kraj Vysočina</a></li></ul><div><br></div><div><ul><li><a class="link_clanek" href="https://www.ledecns.cz/cs/mestsky-urad/dokumenty/prohlaseni-o-pristupnosti.html">Prohlášení o přístupnosti</a></li></ul></div>
+            </div>
+            <div class="sloupec">
+                <h4>Nejčastěji vyhledávané</h4>
+                
+<ul><li><a class="link_clanek" href="https://www.ledecns.cz/cs/mesto/o-meste.html">O městě</a></li><li><a class="link_clanek" href="https://www.ledecns.cz/cs/mestsky-urad/kontakty.html">Kontakty</a></li><li><a href="https://www.ledecsko.cz/akce/" onclick="javajcript:window.open(this); return false" title="otevře odkaz v novém okně">Akce</a></li></ul>
+            </div>
+        </div>
+        <div class="mapa" style="background: green;">
+            <iframe style="border:none;width:100%;height:100%" src="https://frame.mapy.cz/s/lopajanemu" frameborder="0" title="Mapa"></iframe>
+        </div>
+    </div>
+</section></footer>
+<input type="hidden" name="portal_4_js" id="portal_4_js" value="2179">
+<nav class="mob_menu" id="mob_menu_ng">
+    <section class="mob_hlavicka">
+        <a href="https://www.ledecns.cz" class="logo" title="Hlavní stránka">
+                            <span class="nadpis">Ledeč nad Sázavou</span>
+                                    <span class="podnadpis">oficiální stránky obce</span>
+                    </a>
+        <a href="javascript:open_mob_menu();" class="mob_menu_close" title="Zavřít menu"></a>
+    </section>
+    <div class="mob_menu_overflow">
+        <section class="mob_vyhledavani ">
+                            <div class="vyhledavani_obal">
+                    <form class="vyhledavani" action="/redakce/index.php" method="get" id="as4u_form_mobile_search">
+                        <input type="hidden" name="xuser" value="" />
+                        <input type="hidden" name="lanG" value="cs" />
+                                                <input type="hidden" name="subakce" value="scearch" />
+                        <input type="text" name="scearchText" id="find_in_redakce_m" class="textpole_vyhledavani" placeholder="zadejte hledanou frázi" accesskey="4" />
+                        <input type="submit" value="vyhledat" title="vyhledat" class="tlacitko_vyhledat" />
+                    </form>
+                </div>
+                    </section>
+                    <section class="mob_rychl_odkazy">
+                <div class="vypis">
+                                                <a href="https://www.ledecns.cz/redakce/index.php?lanG=cs&amp;portal=2179&amp;as4uOriginalDomain=www.ledecns.cz&amp;as4u_protocol=https&amp;subakce=news&amp;" >Aktuality</a>
+                                                <a href="https://www.ledecsko.cz/akce/" >Akce</a>
+                                    </div>
+            </section>
+                <section class="mob_navi" id="mob_menu_ajx">
+                <div class="mob_navi_hlavicka">
+                <span class="mob_navi_hlavicka_nadpis">Titulní strana</span>
+    </div>
+            <ul class="mob_navi_clanky home">
+                <li class="mob_menu_li_plny test_ typ_8">
+        <span class="mob_navi_li_ico">
+                            <span class="def_ikona_clanku"></span>
+                    </span>
+        <a href="https://www.ledecns.cz/cs/mesto-a-samosprava/" class="nazev">Město a samospráva</a>
+                    <span class="mob_navi_doplnkove_info">
+                <span class="mob_navi_pocet_vsekci">9</span>
+                                    <a href="javascript:prenacti_menu(50770);" class="mob_navi_nacist" title="načíst sekci"></a>
+                            </span>
+            </li>
+    <li class="mob_menu_li_plny test_ typ_8">
+        <span class="mob_navi_li_ico">
+                            <span class="def_ikona_clanku"></span>
+                    </span>
+        <a href="https://www.ledecns.cz/cs/mestsky-urad/" class="nazev">Městský úřad</a>
+                    <span class="mob_navi_doplnkove_info">
+                <span class="mob_navi_pocet_vsekci">11</span>
+                                    <a href="javascript:prenacti_menu(50690);" class="mob_navi_nacist" title="načíst sekci"></a>
+                            </span>
+            </li>
+    <li class="mob_menu_li_plny test_ typ_8">
+        <span class="mob_navi_li_ico">
+                            <span class="def_ikona_clanku"></span>
+                    </span>
+        <a href="https://www.ledecns.cz/cs/pro-obcany-1/" class="nazev">Pro občany</a>
+                    <span class="mob_navi_doplnkove_info">
+                <span class="mob_navi_pocet_vsekci">11</span>
+                                    <a href="javascript:prenacti_menu(149757);" class="mob_navi_nacist" title="načíst sekci"></a>
+                            </span>
+            </li>
+    <li class="mob_menu_li_plny test_ typ_9">
+        <span class="mob_navi_li_ico">
+                            <span class="def_ikona_clanku"></span>
+                    </span>
+        <a href="https://www.ledecns.cz/cs/clanky-3/" class="nazev">Články</a>
+                    <span class="mob_navi_doplnkove_info">
+                <span class="mob_navi_pocet_vsekci">393</span>
+                                    <a href="javascript:prenacti_menu(50186);" class="mob_navi_nacist" title="načíst sekci"></a>
+                            </span>
+            </li>
+        </ul>
+        </section>
+            </div>
+</nav><div id="galery_view_transparent" style="position: absolute; display: none; top: 0px; left: 0px; z-index: 30; background: black; width: 500px; height: 500px; padding: 0px; margin: 0px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70); -moz-opacity: 0.7; opacity: 0.7;"></div><div id="galery_view" style="position: absolute; display: none; top: 0px; left: 0px; z-index: 31; width: 0px; height: 0px; padding: 0px; margin: 0px;"></div><div><img src="/images/gallery/loading.gif" alt="load" style="display: none; border: 0;" /></div><div id="ajax_transparent" style="position: absolute; display: none; top: 0px; left: 0px; z-index:21; background: black; width: 500px; height: 500px; padding: 0px; margin: 0px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70); -moz-opacity: 0.7; opacity: 0.7;"></div><div id="ajax_view" style="position: absolute; display: none; top: 0px; left: 0px; z-index:22; background: white;">
+<div id="ajax_view_close" style="position: relative; background-color: black; height: 20px; line-height: 20px; font-size:12px; color-white;"><a href="javascript:closeajax()" style="text-decoration: underline; color: white; text-align:center; display: block; width: 24px; height: 20px; position: absolute; top:0px; right: 0px;" title="zavřít"><strong>X</strong></a></div>
+<div id="ajax_content" style="position: relative; background:white; overflow: auto;"></div>
+</div>
+  <div class="cookies_info_v22" id="cookies_info" style="display: none;">
+    <div class="cookies_info_in">
+      <div class="cookies_info_text">
+        <h3>Nastavení soukromí</h3>
+        <p>
+          Na těchto webových stránkách se používají soubory cookies a další síťové identifikátory, které jsou nezbytné pro provoz některých funkcionalit webu.<br />
+        </p>
+                  <div class="checkboxy">
+                        <p>Souhlasím s použitím statistických cookies, které umožňují měřit návštěvnost webu <label for="cookies_statistics_stat"><input type="checkbox" id="cookies_statistics_stat"><span></span></label></p>
+                        <p>Souhlasím s použitím analytických cookies, které umožňují měřit výkon webu <label for="cookies_analytics_vyk"><input type="checkbox" id="cookies_analytics_vyk"><span></span></label></p>
+                        <a href="javascript:as4uCookiesConfirm('agree');" onclick="javascript:as4uCookiesConfirm('agree');" class="cookies_info_confirm">Uložit nastavení</a>
+          </div>
+        
+      </div>
+
+      <div class="cookies_info_odkazy">
+        <a href="javascript:as4uCookiesConfirm('agree_all');" onclick="javascript:as4uCookiesConfirm('agree_all');" class="cookies_info_confirm">Přijímám vše</a>
+        <a href="javascript:as4uCookiesConfirm('rejct');" onclick="javascript:as4uCookiesConfirm('rejct');" class="cookies_info_refuse ">Odmítám</a>
+                <a href="https://www.ledecns.cz/cs/clanky/cookies.html" class="cookies_info_moreinfo">Více informací</a>
+        <!--<a href="javascript:as4uCookiesConfirm('defered');" onclick="javascript:as4uCookiesConfirm('defered');" class="cookies_close" title="Nebudu nastavovat"></a>-->
+
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
+
