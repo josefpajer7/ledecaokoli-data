@@ -1,15 +1,25 @@
 {
- "updated": "2026-10-19T15:19:21.604Z",
+ "updated": "2026-10-20T09:03:51.587Z",
  "source": "https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html",
- "total": 69,
+ "total": 68,
  "items": [
+  {
+   "t": "Veřejná vyhláška - vyrozumění o zahájení řízení",
+   "from": "2026-10-20",
+   "to": "2026-11-05",
+   "src": "MěÚ Světlá nad Sázavou",
+   "typ": "Veřejná vyhláška",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=304418&",
+   "tag": "Úřad",
+   "cls": "u"
+  },
   {
    "t": "Rozhodnutí o povolení uzavírky",
    "from": "2026-10-19",
    "to": "2026-11-04",
    "src": "MěÚ Světlá nad Sázavou",
    "typ": "Veřejná vyhláška",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=304351&",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=304351&",
    "tag": "Doprava",
    "cls": "d"
   },
@@ -19,7 +29,7 @@
    "to": "2026-10-30",
    "src": "MěÚ Ledeč nad Sázavou",
    "typ": "Oznámení",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=304014&",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=304014&",
    "tag": "Majetek",
    "cls": "m"
   },
@@ -29,7 +39,7 @@
    "to": "2026-10-30",
    "src": "MěÚ Ledeč nad Sázavou",
    "typ": "Oznámení",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=304013&",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=304013&",
    "tag": "Majetek",
    "cls": "m"
   },
@@ -39,7 +49,7 @@
    "to": "2026-10-28",
    "src": "MěÚ Ledeč nad Sázavou",
    "typ": "Oznámení",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=303722&",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=303722&",
    "tag": "Majetek",
    "cls": "m"
   },
@@ -60,7 +70,7 @@
    "to": "2026-11-11",
    "src": "ÚZSVM",
    "typ": "Veřejná vyhláška",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=302664&",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=302664&",
    "tag": "Úřad",
    "cls": "u"
   },
@@ -70,7 +80,7 @@
    "to": "2026-11-09",
    "src": "Krajský úřad kraje Vysočina",
    "typ": "Oznámení",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=303088&",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=303088&",
    "tag": "Oznámení",
    "cls": ""
   },
@@ -80,29 +90,9 @@
    "to": "2026-10-21",
    "src": "MěÚ Ledeč nad Sázavou",
    "typ": "Oznámení",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=302622&",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=302622&",
    "tag": "Majetek",
    "cls": "m"
-  },
-  {
-   "t": "Rozhodnutí - povolení stavby",
-   "from": "2026-10-02",
-   "to": "2026-10-19",
-   "src": "MěÚ Ledeč nad Sázavou",
-   "typ": "Veřejná vyhláška",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=302125&",
-   "tag": "Oznámení",
-   "cls": ""
-  },
-  {
-   "t": "Veřejná vyhláška - opatření obecné povahy - stanovení přechodné úpravy provozu",
-   "from": "2026-10-02",
-   "to": "2026-10-19",
-   "src": "MěÚ Světlá nad Sázavou",
-   "typ": "Veřejná vyhláška",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=302110&",
-   "tag": "Doprava",
-   "cls": "d"
   },
   {
    "t": "Veřejná vyhláška",
@@ -110,7 +100,7 @@
    "to": "2027-06-09",
    "src": "Katastrální úřad",
    "typ": "Veřejná vyhláška",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=290105&",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=290105&",
    "tag": "Úřad",
    "cls": "u"
   },
@@ -120,7 +110,7 @@
    "to": "2027-09-30",
    "src": "Katastrální úřad",
    "typ": "Oznámení",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookieA=yes&ConfirmCookieS=yes&ConfirmCookie=agree&detail_claim=276975&",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=276975&",
    "tag": "Stavby a pozemky",
    "cls": ""
   }

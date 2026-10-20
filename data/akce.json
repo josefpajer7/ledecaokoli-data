@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:19:20.155Z",
+ "updated": "2026-10-20T09:03:49.624Z",
  "source": "https://www.ledecsko.cz/akce/",
  "items": [
   {
@@ -21,6 +21,31 @@
    "url": "https://www.ledecsko.cz/event/vystava-skla-a-obrazu-anton-strban/"
   },
   {
+   "t": "Podzimní prodejní výstava",
+   "p": "Centrum sociálních služeb Petrklíč",
+   "s": "2026-10-19",
+   "h": "od 7:00",
+   "e": "2026-11-06",
+   "run": 1,
+   "url": "https://www.ledecsko.cz/event/podzimni-prodejni-vystava-2/"
+  },
+  {
+   "t": "Dopolední plavání pro seniory",
+   "p": "Intex Aréna",
+   "s": "2026-10-20",
+   "h": "od 9:00",
+   "e": "2026-12-21",
+   "run": 1,
+   "url": "https://www.ledecsko.cz/event/dopoledni-plavani-pro-seniory/"
+  },
+  {
+   "t": "Filmové kvízy",
+   "p": "Restaurace U řeky",
+   "s": "2026-10-21",
+   "h": "18:00",
+   "url": "https://www.ledecsko.cz/event/filmove-kvizy/"
+  },
+  {
    "t": "Grátis",
    "p": "Vedle vrátnice firmy Kovofiniš",
    "s": "2026-10-22",
@@ -34,6 +59,15 @@
    "s": "2026-10-23",
    "h": "14:00",
    "url": "https://www.ledecsko.cz/event/beseda-cesky-lidovy-odev/"
+  },
+  {
+   "t": "Silový trénink pro seniory",
+   "p": "Intex Aréna",
+   "s": "2026-10-23",
+   "h": "od 10:00",
+   "e": "2026-12-21",
+   "run": 1,
+   "url": "https://www.ledecsko.cz/event/silovy-trenink-pro-seniory/"
   },
   {
    "t": "Dušičky v Zahrádce",
@@ -143,11 +177,25 @@
    "url": "https://www.ledecsko.cz/event/koncert-stepana-kojana/"
   },
   {
+   "t": "Filmové kvízy",
+   "p": "Restaurace U řeky",
+   "s": "2026-11-18",
+   "h": "18:00",
+   "url": "https://www.ledecsko.cz/event/filmove-kvizy-2/"
+  },
+  {
    "t": "Kino: Dřevorubec",
    "p": "sál gymnázium Ledeč n/S",
    "s": "2026-11-20",
    "h": "17:00",
    "url": "https://www.ledecsko.cz/event/kino-drevorubec/"
+  },
+  {
+   "t": "10. Předvánoční skláření",
+   "p": "Sklárna Tasice",
+   "s": "2026-11-21",
+   "h": "10:00",
+   "url": "https://www.ledecsko.cz/event/10-predvanocni-sklareni/"
   },
   {
    "t": "XIV. Ledečská pirueta 2026",
@@ -176,6 +224,13 @@
    "s": "2026-12-06",
    "h": "10:00",
    "url": "https://www.ledecsko.cz/event/mezigeneracni-multimedialni-dilny-tvorba-vanocniho-prani-a-novorocenky/"
+  },
+  {
+   "t": "Filmové kvízy",
+   "p": "Restaurace U řeky",
+   "s": "2026-12-16",
+   "h": "18:00",
+   "url": "https://www.ledecsko.cz/event/filmove-kvizy-3/"
   },
   {
    "t": "Divadlo: Budoucí tchýně",
