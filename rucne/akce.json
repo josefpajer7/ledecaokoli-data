@@ -1,0 +1,14 @@
+{
+ "_navod": "Ručně přidané akce. Přidej položku, ulož — web ji zobrazí do pár minut, na Netlify se nic nenasazuje. Plakát nahraj do složky rucne/plakaty/. Proběhlé akce se samy skryjí, není nutné je mazat. Pole: t = název, p = místo, s = datum (RRRR-MM-DD), e = datum konce (nepovinné), h = čas, d = popis, img = plakát, nahled = zmenšený plakát.",
+ "items": [
+  {
+   "t": "Halloweenská stezka odvahy",
+   "p": "Start: Barborka 1191, Ledeč nad Sázavou",
+   "s": "2026-10-31",
+   "h": "od 18:00",
+   "d": "18:00–20:00 dětská trasa, od 20:00 na vlastní nebezpečí. Vstupné od 15 let 100 Kč. Občerstvení zajištěno.",
+   "img": "rucne/plakaty/2026-10-31-halloweenska-stezka-odvahy.jpg",
+   "nahled": "rucne/plakaty/2026-10-31-halloweenska-stezka-odvahy-nahled.jpg"
+  }
+ ]
+}

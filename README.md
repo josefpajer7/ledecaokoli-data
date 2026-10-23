@@ -11,6 +11,10 @@ Data pro portál **Ledeč a okolí** (ledecaokoli.cz). Každé ráno je sem auto
 | `data/aktuality.json` | posledních 20 aktualit města | [ledecns.cz](https://www.ledecns.cz) |
 | `data/meta.json` | kdy a jak dopadlo poslední stahování | — |
 
+## Ručně přidané akce (s plakátem)
+
+Akce, které v kalendáři infocentra nejsou, se přidávají do `rucne/akce.json`, plakáty do `rucne/plakaty/`. Web je načte sám, na Netlify se nic nenasazuje. Proběhlé akce se samy skryjí. Když stejnou akci později přidá i infocentrum, na webu zůstane jen ta ruční s plakátem.
+
 ## Jak to běží
 
 - **Automaticky** každý den v 6:00 (v zimě v 5:00).
