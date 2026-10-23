@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T09:05:23.033Z",
+ "updated": "2026-10-23T09:00:07.834Z",
  "source": "https://www.ledecsko.cz/akce/",
  "items": [
   {
@@ -75,6 +75,13 @@
    "s": "2026-10-24",
    "h": "17:00",
    "url": "https://www.ledecsko.cz/event/%f0%9f%91%b9-pekelny-hrad-se-blizi-%f0%9f%94%a5/"
+  },
+  {
+   "t": "O VÍKENDU PRO JANKU",
+   "p": "Sportovní hala",
+   "s": "2026-10-24",
+   "h": "17:30",
+   "url": "https://www.ledecsko.cz/event/o-vikendu-pro-janku/"
   },
   {
    "t": "Posvícenská zábava",
@@ -163,6 +170,13 @@
    "url": "https://www.ledecsko.cz/event/uspavani-strasidel-2/"
   },
   {
+   "t": "Svatomartinská stezka s lampiony na Šeptouchov",
+   "p": "Lesopark Šeptouchov",
+   "s": "2026-11-11",
+   "h": "18:00",
+   "url": "https://www.ledecsko.cz/event/svatomartinska-stezka-s-lampiony-na-septouchov/"
+  },
+  {
    "t": "Koncert: Štěpán Kojan",
    "p": "sál gymnázia Ledeč",
    "s": "2026-11-12",
@@ -175,6 +189,14 @@
    "s": "2026-11-18",
    "h": "18:00",
    "url": "https://www.ledecsko.cz/event/filmove-kvizy-2/"
+  },
+  {
+   "t": "Grátis",
+   "p": "Vedle vrátnice firmy Kovofiniš",
+   "s": "2026-11-19",
+   "h": "15:00",
+   "e": "2026-11-20",
+   "url": "https://www.ledecsko.cz/event/gratis-5/"
   },
   {
    "t": "Kino: Dřevorubec",
@@ -212,11 +234,41 @@
    "url": "https://www.ledecsko.cz/event/beseda-voli-se-v-usa-demokraticky/"
   },
   {
+   "t": "Přivítání adventu",
+   "p": "Husovo náměstí",
+   "s": "2026-11-29",
+   "h": "16:30",
+   "url": "https://www.ledecsko.cz/event/privitani-adventu-4/"
+  },
+  {
+   "t": "Grátis: Den otevřených dveří",
+   "p": "Vedle vrátnice firmy Kovofiniš",
+   "s": "2026-12-04",
+   "h": "15:00",
+   "url": "https://www.ledecsko.cz/event/gratis-den-otevrenych-dveri/"
+  },
+  {
+   "t": "Vánoční výstava od dob monarchie až po 90. léta",
+   "p": "Hrad Ledeč n. S.",
+   "s": "2026-12-04",
+   "h": "od 8:00",
+   "e": "2027-01-03",
+   "run": 1,
+   "url": "https://www.ledecsko.cz/event/vanocni-vystava-od-dob-monarchie-az-po-90-leta/"
+  },
+  {
    "t": "Mezigenerační multimediální dílny: Tvorba vánočního přání a novoročenky",
    "p": "ZUŠ Ledeč nad Sázavou, Nádražní 231",
    "s": "2026-12-06",
    "h": "10:00",
    "url": "https://www.ledecsko.cz/event/mezigeneracni-multimedialni-dilny-tvorba-vanocniho-prani-a-novorocenky/"
+  },
+  {
+   "t": "Vánoční jarmark",
+   "p": "Hrad Ledeč n. S.",
+   "s": "2026-12-13",
+   "h": "11:00",
+   "url": "https://www.ledecsko.cz/event/vanocni-jarmark/"
   },
   {
    "t": "Filmové kvízy",
