@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T08:52:40.554Z",
+ "updated": "2026-10-26T09:34:48.860Z",
  "source": "https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html",
- "total": 69,
+ "total": 51,
  "items": [
   {
    "t": "Upozornění k odstranění a okleštění stromoví a jiných porostů",
@@ -72,17 +72,6 @@
    "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=303722&",
    "tag": "Majetek",
    "cls": "m"
-  },
-  {
-   "t": "Zápis o výsledku voleb do ZO",
-   "from": "2026-10-10",
-   "to": "2026-10-25",
-   "src": "MěÚ Ledeč nad Sázavou",
-   "typ": "Ostatní",
-   "url": "https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html",
-   "note": "Ledeč nad Sázavou, Bělá, Bojiště a dalších 15",
-   "tag": "Volby",
-   "cls": "v"
   },
   {
    "t": "Aukční vyhláška",
