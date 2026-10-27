@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T09:34:47.607Z",
+ "updated": "2026-10-27T09:31:35.199Z",
  "source": "https://www.ledecsko.cz/akce/",
  "items": [
   {
@@ -127,6 +127,13 @@
    "url": "https://www.ledecsko.cz/event/uspavani-strasidel-2/"
   },
   {
+   "t": "Anglická kavárna",
+   "p": "Kavárna Kovárna",
+   "s": "2026-11-09",
+   "h": "17:00",
+   "url": "https://www.ledecsko.cz/event/anglicka-kavarna/"
+  },
+  {
    "t": "Svatomartinská stezka s lampiony na Šeptouchov",
    "p": "Lesopark Šeptouchov",
    "s": "2026-11-11",
@@ -214,6 +221,13 @@
    "url": "https://www.ledecsko.cz/event/vanocni-vystava-od-dob-monarchie-az-po-90-leta/"
   },
   {
+   "t": "Mikuláš na hradě",
+   "p": "Hrad Ledeč n. S.",
+   "s": "2026-12-05",
+   "h": "16:30",
+   "url": "https://www.ledecsko.cz/event/mikulas-na-hrade-3/"
+  },
+  {
    "t": "Mezigenerační multimediální dílny: Tvorba vánočního přání a novoročenky",
    "p": "ZUŠ Ledeč nad Sázavou, Nádražní 231",
    "s": "2026-12-06",
@@ -240,6 +254,13 @@
    "s": "2027-01-27",
    "h": "19:00",
    "url": "https://www.ledecsko.cz/event/divadlo-budouci-tchyne/"
+  },
+  {
+   "t": "Večer s Petrem Kostkou a Jaroslavem Satoranským",
+   "p": "sál gymnázia Ledeč",
+   "s": "2027-02-19",
+   "h": "18:00",
+   "url": "https://www.ledecsko.cz/event/vecer-s-petrem-kostkou-a-jaroslavem-satoranskym/"
   }
  ]
 }
