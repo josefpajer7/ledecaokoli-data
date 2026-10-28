@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T09:31:35.199Z",
+ "updated": "2026-10-28T10:16:00.109Z",
  "source": "https://www.ledecsko.cz/akce/",
  "items": [
   {
@@ -46,13 +46,6 @@
    "e": "2026-12-21",
    "run": 1,
    "url": "https://www.ledecsko.cz/event/silovy-trenink-pro-seniory/"
-  },
-  {
-   "t": "Týden turistických informačních center",
-   "p": "Turistické informační centrum",
-   "s": "2026-10-27",
-   "h": "8:00",
-   "url": "https://www.ledecsko.cz/event/tyden-turistickych-informacnich-center-4/"
   },
   {
    "t": "Techmania",
@@ -146,6 +139,14 @@
    "s": "2026-11-12",
    "h": "19:00",
    "url": "https://www.ledecsko.cz/event/koncert-stepana-kojana/"
+  },
+  {
+   "t": "Vánoční tvoření s Keramirkou",
+   "p": "Keramická dílna SVČ",
+   "s": "2026-11-13",
+   "h": "16:00",
+   "e": "2026-11-14",
+   "url": "https://www.ledecsko.cz/event/vanocni-tvoreni-s-keramirkou-2/"
   },
   {
    "t": "Filmové kvízy",
