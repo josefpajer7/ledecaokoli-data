@@ -1,8 +1,18 @@
 {
- "updated": "2026-10-30T10:40:32.169Z",
+ "updated": "2026-10-31T10:06:35.277Z",
  "source": "https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html",
- "total": 52,
+ "total": 53,
  "items": [
+  {
+   "t": "Ustavující zasedání zastupitelstva města",
+   "from": "2026-10-30",
+   "to": "2026-11-10",
+   "src": "MěÚ Ledeč nad Sázavou",
+   "typ": "Pozvánka",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookie=agree&detail_claim=305430&",
+   "tag": "Úřad",
+   "cls": "u"
+  },
   {
    "t": "Dražební vyhláška",
    "from": "2026-10-29",
@@ -52,26 +62,6 @@
    "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookie=agree&detail_claim=304351&",
    "tag": "Doprava",
    "cls": "d"
-  },
-  {
-   "t": "Záměr prodeje speciálního automobilu",
-   "from": "2026-10-14",
-   "to": "2026-10-30",
-   "src": "MěÚ Ledeč nad Sázavou",
-   "typ": "Oznámení",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookie=agree&detail_claim=304014&",
-   "tag": "Majetek",
-   "cls": "m"
-  },
-  {
-   "t": "Záměr pronájmu prostor sloužících k podnikání",
-   "from": "2026-10-14",
-   "to": "2026-10-30",
-   "src": "MěÚ Ledeč nad Sázavou",
-   "typ": "Oznámení",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&ConfirmCookie=agree&detail_claim=304013&",
-   "tag": "Majetek",
-   "cls": "m"
   },
   {
    "t": "Aukční vyhláška",
