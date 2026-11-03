@@ -1,8 +1,18 @@
 {
- "updated": "2026-11-02T11:55:52.134Z",
+ "updated": "2026-11-03T11:32:13.495Z",
  "source": "https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html",
- "total": 51,
+ "total": 52,
  "items": [
+  {
+   "t": "Pozvánka na zasedání zastupitelstva Kraje Vysočina",
+   "from": "2026-11-02",
+   "to": "2026-11-10",
+   "src": "Krajský úřad kraje Vysočina",
+   "typ": "Pozvánka",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=305533&",
+   "tag": "Úřad",
+   "cls": "u"
+  },
   {
    "t": "Ustavující zasedání zastupitelstva města",
    "from": "2026-10-30",

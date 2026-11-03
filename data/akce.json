@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:55:50.968Z",
+ "updated": "2026-11-03T11:32:12.125Z",
  "source": "https://www.ledecsko.cz/akce/",
  "items": [
   {
@@ -121,6 +121,14 @@
    "url": "https://www.ledecsko.cz/event/gratis-5/"
   },
   {
+   "t": "Vánoční prodejní výstava",
+   "p": "Barborka-fé",
+   "s": "2026-11-19",
+   "h": "8:00",
+   "e": "2026-11-20",
+   "url": "https://www.ledecsko.cz/event/vanocni-prodejni-vystava-4/"
+  },
+  {
    "t": "Kino: Dřevorubec",
    "p": "sál gymnázium Ledeč n/S",
    "s": "2026-11-20",
@@ -170,7 +178,7 @@
    "url": "https://www.ledecsko.cz/event/gratis-den-otevrenych-dveri/"
   },
   {
-   "t": "Vánoční výstava od dob monarchie až po 90. léta",
+   "t": "Vánoční výstava",
    "p": "Hrad Ledeč n. S.",
    "s": "2026-12-04",
    "h": "od 8:00",
@@ -205,6 +213,13 @@
    "s": "2026-12-16",
    "h": "18:00",
    "url": "https://www.ledecsko.cz/event/filmove-kvizy-3/"
+  },
+  {
+   "t": "8. Pochod krajem pověstí Eduarda Doubka",
+   "p": "Gymnázium, Husovo náměstí 1, Ledeč nad Sázavou",
+   "s": "2026-12-27",
+   "h": "8:00",
+   "url": "https://www.ledecsko.cz/event/8-pochod-krajem-povesti-eduarda-doubka/"
   },
   {
    "t": "Divadlo: Budoucí tchýně",
