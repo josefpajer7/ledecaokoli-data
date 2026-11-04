@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-03T11:32:15.356Z",
+ "updated": "2026-11-04T11:48:13.964Z",
  "source": "https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&",
  "items": [
+  {
+   "t": "ODSTÁVKA ELEKTŘINY",
+   "date": "2026-11-04",
+   "url": "https://www.ledecns.cz/cs/clanky/odstavka-elektriny-26.html",
+   "cat": "site"
+  },
+  {
+   "t": "Změna jízdního řádu linky 603230 od 13.12.2026",
+   "date": "2026-11-03",
+   "url": "https://www.ledecns.cz/cs/clanky/zmena-jizdniho-radu-linky-603230-od-13-12-2026.html",
+   "cat": ""
+  },
+  {
+   "t": "Změna jízdního řádu linky 603241 od 13.12.2026",
+   "date": "2026-11-03",
+   "url": "https://www.ledecns.cz/cs/clanky/zmena-jizdniho-radu-linky-603241-od-13-12-2026.html",
+   "cat": ""
+  },
+  {
+   "t": "Změna jízdního řádu linky 603240 od 13.12.2026",
+   "date": "2026-11-03",
+   "url": "https://www.ledecns.cz/cs/clanky/zmena-jizdniho-radu-linky-603240-od-13-12-2026.html",
+   "cat": ""
+  },
   {
    "t": "Nový Penguin Box v ulici Stínadla",
    "date": "2026-10-29",
@@ -49,30 +73,6 @@
    "date": "2026-10-07",
    "url": "https://www.ledecns.cz/cs/clanky/vysocina-pecuje-1.html",
    "cat": ""
-  },
-  {
-   "t": "Změna počtu parkovacích automatů na Husově náměstí",
-   "date": "2026-10-06",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&#akt1709614",
-   "cat": "doprava"
-  },
-  {
-   "t": "Výzva k odstranění větví přerůstajících ze soukromých pozemků do veřejného prostranství",
-   "date": "2026-10-05",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&#akt1709575",
-   "cat": ""
-  },
-  {
-   "t": "Aktuální harmonogram prací v ulicích Hradní a Nad Lesem",
-   "date": "2026-10-02",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&#akt1709485",
-   "cat": "doprava"
-  },
-  {
-   "t": "ODSTÁVKA ELEKTŘINY",
-   "date": "2026-10-01",
-   "url": "https://www.ledecns.cz/cs/clanky/odstavka-elektriny-25.html",
-   "cat": "site"
   }
  ]
 }
