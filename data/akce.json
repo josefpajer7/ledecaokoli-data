@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:45:36.473Z",
+ "updated": "2026-11-06T11:43:08.862Z",
  "source": "https://www.ledecsko.cz/akce/",
  "items": [
   {
@@ -89,6 +89,13 @@
    "url": "https://www.ledecsko.cz/event/koncert-stepana-kojana/"
   },
   {
+   "t": "Školní hry bez hranic a beseda s Ilonou Burgrovou",
+   "p": "Intex aréna a sportovní hala Gymnázia",
+   "s": "2026-11-12",
+   "h": "8:30",
+   "url": "https://www.ledecsko.cz/event/skolni-hry-bez-hranic-a-beseda-s-ilonou-burgrovou/"
+  },
+  {
    "t": "Vánoční tvoření s Keramirkou",
    "p": "Keramická dílna SVČ",
    "s": "2026-11-13",
@@ -176,6 +183,13 @@
    "e": "2027-01-03",
    "run": 1,
    "url": "https://www.ledecsko.cz/event/vanocni-vystava-od-dob-monarchie-az-po-90-leta/"
+  },
+  {
+   "t": "Mikulášení",
+   "p": "Ledeč nad Sázavou",
+   "s": "2026-12-05",
+   "h": "16:00",
+   "url": "https://www.ledecsko.cz/event/mikulaseni-2/"
   },
   {
    "t": "Mikuláš na hradě",

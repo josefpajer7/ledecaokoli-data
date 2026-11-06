@@ -1,7 +1,13 @@
 {
- "updated": "2026-11-05T11:45:38.729Z",
+ "updated": "2026-11-06T11:43:11.078Z",
  "source": "https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&",
  "items": [
+  {
+   "t": "Akce pro veřejnost pořádané Nemocnicí Havlíčkův Brod",
+   "date": "2026-11-05",
+   "url": "https://www.ledecns.cz/cs/clanky/akce-pro-verejnost-poradane-nemocnici-havlickuv-brod.html",
+   "cat": ""
+  },
   {
    "t": "ODSTÁVKA ELEKTŘINY",
    "date": "2026-11-04",
@@ -67,12 +73,6 @@
    "date": "2026-10-09",
    "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&portal=2179&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&subakce=news&#akt1709756",
    "cat": "doprava"
-  },
-  {
-   "t": "Vysočina pečuje",
-   "date": "2026-10-07",
-   "url": "https://www.ledecns.cz/cs/clanky/vysocina-pecuje-1.html",
-   "cat": ""
   }
  ]
 }
