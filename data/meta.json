@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-06T11:43:11.079Z",
- "today": "2026-11-06",
+ "updated": "2026-11-07T10:50:20.984Z",
+ "today": "2026-11-07",
  "sources": {
   "akce": {
    "ok": true,
-   "lastSuccess": "2026-11-06T11:43:11.079Z",
-   "count": 32,
+   "lastSuccess": "2026-11-07T10:50:20.984Z",
+   "count": 31,
    "method": "api",
    "warnings": []
   },
   "deska": {
    "ok": true,
-   "lastSuccess": "2026-11-06T11:43:11.079Z",
-   "count": 10,
-   "total": 52
+   "lastSuccess": "2026-11-07T10:50:20.984Z",
+   "count": 12,
+   "total": 53
   },
   "aktuality": {
    "ok": true,
-   "lastSuccess": "2026-11-06T11:43:11.079Z",
+   "lastSuccess": "2026-11-07T10:50:20.984Z",
    "count": 12
   }
  }
