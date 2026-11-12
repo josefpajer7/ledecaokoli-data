@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-11T11:38:14.933Z",
+ "updated": "2026-11-12T12:04:08.610Z",
  "source": "https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html",
- "total": 51,
+ "total": 52,
  "items": [
+  {
+   "t": "Vyhlášení konkursního řízení na vedoucí pracovní místo ředitele/ředitelky Školní jídelny Kutná Hora",
+   "from": "2026-11-11",
+   "to": "2026-12-02",
+   "src": "-----",
+   "typ": "Oznámení",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=306559&",
+   "tag": "Oznámení",
+   "cls": ""
+  },
+  {
+   "t": "Záměr pronájmu části pozemků",
+   "from": "2026-11-11",
+   "to": "2026-11-27",
+   "src": "MěÚ Ledeč nad Sázavou",
+   "typ": "Oznámení",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=306430&",
+   "tag": "Majetek",
+   "cls": "m"
+  },
   {
    "t": "Veřejná vyhláška - opatření obecné povahy - stanovení přechodné úpravy provozu",
    "from": "2026-11-10",
@@ -72,16 +92,6 @@
    "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=304685&",
    "tag": "Oznámení",
    "cls": ""
-  },
-  {
-   "t": "Aukční vyhláška",
-   "from": "2026-10-09",
-   "to": "2026-11-11",
-   "src": "ÚZSVM",
-   "typ": "Veřejná vyhláška",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=302664&",
-   "tag": "Úřad",
-   "cls": "u"
   },
   {
    "t": "Veřejná vyhláška",
