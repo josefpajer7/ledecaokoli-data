@@ -1,8 +1,18 @@
 {
- "updated": "2026-11-12T12:04:08.610Z",
+ "updated": "2026-11-13T11:47:02.652Z",
  "source": "https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html",
- "total": 52,
+ "total": 53,
  "items": [
+  {
+   "t": "Záměr výpůjčky místnosti",
+   "from": "2026-11-13",
+   "to": "2026-11-30",
+   "src": "MěÚ Ledeč nad Sázavou",
+   "typ": "Oznámení",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=306688&",
+   "tag": "Majetek",
+   "cls": "m"
+  },
   {
    "t": "Vyhlášení konkursního řízení na vedoucí pracovní místo ředitele/ředitelky Školní jídelny Kutná Hora",
    "from": "2026-11-11",
