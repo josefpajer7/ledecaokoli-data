@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:33:03.583Z",
+ "updated": "2026-11-19T12:23:47.429Z",
  "source": "https://www.ledecsko.cz/akce/",
  "items": [
   {
@@ -28,13 +28,6 @@
    "e": "2026-12-21",
    "run": 1,
    "url": "https://www.ledecsko.cz/event/silovy-trenink-pro-seniory/"
-  },
-  {
-   "t": "Filmové kvízy",
-   "p": "Restaurace U řeky",
-   "s": "2026-11-18",
-   "h": "18:00",
-   "url": "https://www.ledecsko.cz/event/filmove-kvizy-2/"
   },
   {
    "t": "Grátis",
@@ -117,6 +110,13 @@
    "url": "https://www.ledecsko.cz/event/kino-bara-basikova/"
   },
   {
+   "t": "Vyrábění v knihovně",
+   "p": "Městská knihovna",
+   "s": "2026-12-02",
+   "h": "7:30",
+   "url": "https://www.ledecsko.cz/event/vyrabeni-v-knihovne/"
+  },
+  {
    "t": "Grátis: Den otevřených dveří",
    "p": "Vedle vrátnice firmy Kovofiniš",
    "s": "2026-12-04",
@@ -159,6 +159,20 @@
    "s": "2026-12-06",
    "h": "10:00",
    "url": "https://www.ledecsko.cz/event/mezigeneracni-multimedialni-dilny-tvorba-vanocniho-prani-a-novorocenky/"
+  },
+  {
+   "t": "Přednáška: Vzácné houby Světelska",
+   "p": "Městská knihovna",
+   "s": "2026-12-09",
+   "h": "17:00",
+   "url": "https://www.ledecsko.cz/event/prednaska-vzacne-houby-svetelska/"
+  },
+  {
+   "t": "Vyrábění vánoční ozdoby",
+   "p": "Městská knihovna",
+   "s": "2026-12-10",
+   "h": "15:00",
+   "url": "https://www.ledecsko.cz/event/vyrabeni-vanocni-ozdoby/"
   },
   {
    "t": "Vánoční jarmark",

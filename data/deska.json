@@ -1,8 +1,18 @@
 {
- "updated": "2026-11-18T12:33:04.578Z",
+ "updated": "2026-11-19T12:23:48.518Z",
  "source": "https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html",
- "total": 53,
+ "total": 54,
  "items": [
+  {
+   "t": "Veřejné zasedání zastupitelstva města",
+   "from": "2026-11-18",
+   "to": "2026-11-26",
+   "src": "MěÚ Ledeč nad Sázavou",
+   "typ": "Pozvánka",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=306984&",
+   "tag": "Úřad",
+   "cls": "u"
+  },
   {
    "t": "Záměr výpůjčky místnosti",
    "from": "2026-11-13",
