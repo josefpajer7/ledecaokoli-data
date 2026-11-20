@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:23:47.429Z",
+ "updated": "2026-11-20T12:24:39.997Z",
  "source": "https://www.ledecsko.cz/akce/",
  "items": [
   {
@@ -89,11 +89,20 @@
    "url": "https://www.ledecsko.cz/event/3d-tisk-pro-seniory/"
   },
   {
-   "t": "Beseda: Volí se v USA demokraticky?",
+   "t": "Beseda: Volí se v USA demokraticky? ZRUŠENO",
    "p": "Knihovna Ledeč nad Sázavou",
    "s": "2026-11-24",
    "h": "17:00",
    "url": "https://www.ledecsko.cz/event/beseda-voli-se-v-usa-demokraticky/"
+  },
+  {
+   "t": "Výstava velkoformátových fotografií",
+   "p": "Háta o.p.s.",
+   "s": "2026-11-24",
+   "h": "od 7:00",
+   "e": "2026-12-24",
+   "run": 1,
+   "url": "https://www.ledecsko.cz/event/vystava-velkoformatovych-fotografii/"
   },
   {
    "t": "Přivítání adventu",
@@ -222,6 +231,13 @@
    "s": "2027-02-19",
    "h": "18:00",
    "url": "https://www.ledecsko.cz/event/vecer-s-petrem-kostkou-a-jaroslavem-satoranskym/"
+  },
+  {
+   "t": "Hokejový ples",
+   "p": "KD Bojiště u Ledče n. S.",
+   "s": "2027-02-20",
+   "h": "20:00",
+   "url": "https://www.ledecsko.cz/event/hokejovy-ples-4/"
   }
  ]
 }
