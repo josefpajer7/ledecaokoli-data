@@ -1,16 +1,7 @@
 {
- "updated": "2026-11-22T12:12:01.574Z",
+ "updated": "2026-11-23T13:56:01.727Z",
  "source": "https://www.ledecsko.cz/akce/",
  "items": [
-  {
-   "t": "Výstava skla a obrazů- Anton Štrbáň",
-   "p": "Hrad Ledeč n. S.",
-   "s": "2026-09-23",
-   "h": "od 8:00",
-   "e": "2026-11-30",
-   "run": 1,
-   "url": "https://www.ledecsko.cz/event/vystava-skla-a-obrazu-anton-strban/"
-  },
   {
    "t": "Dopolední plavání pro seniory",
    "p": "Intex Aréna",
@@ -28,13 +19,6 @@
    "e": "2026-12-21",
    "run": 1,
    "url": "https://www.ledecsko.cz/event/silovy-trenink-pro-seniory/"
-  },
-  {
-   "t": "Na akordeon nevážně i vážně",
-   "p": "sál gymnázia Ledeč",
-   "s": "2026-11-22",
-   "h": "15:00",
-   "url": "https://www.ledecsko.cz/event/na-akordeon-nevazne-i-vazne-4/"
   },
   {
    "t": "3D tisk pro seniory",
@@ -66,6 +50,15 @@
    "s": "2026-11-29",
    "h": "16:30",
    "url": "https://www.ledecsko.cz/event/privitani-adventu-4/"
+  },
+  {
+   "t": "Betlémy",
+   "p": "Husův sbor",
+   "s": "2026-11-29",
+   "h": "od 14:00",
+   "e": "2027-01-06",
+   "run": 1,
+   "url": "https://www.ledecsko.cz/event/betlemy/"
   },
   {
    "t": "Kino: Bára Basiková",
@@ -119,6 +112,13 @@
    "url": "https://www.ledecsko.cz/event/mikulas-na-hrade-3/"
   },
   {
+   "t": "Adventní koncert Diogenes",
+   "p": "Kostel sv. Víta v Zahrádce",
+   "s": "2026-12-05",
+   "h": "17:00",
+   "url": "https://www.ledecsko.cz/event/adventni-koncert-diogenes/"
+  },
+  {
    "t": "Mezigenerační multimediální dílny: Tvorba vánočního přání a novoročenky",
    "p": "ZUŠ Ledeč nad Sázavou, Nádražní 231",
    "s": "2026-12-06",
@@ -140,6 +140,13 @@
    "url": "https://www.ledecsko.cz/event/vyrabeni-vanocni-ozdoby/"
   },
   {
+   "t": "Česká mše vánoční",
+   "p": "Kostel sv. Víta v Zahrádce",
+   "s": "2026-12-12",
+   "h": "17:00",
+   "url": "https://www.ledecsko.cz/event/ceska-mse-vanocni-2/"
+  },
+  {
    "t": "Vánoční jarmark",
    "p": "Hrad Ledeč n. S.",
    "s": "2026-12-13",
@@ -152,6 +159,13 @@
    "s": "2026-12-16",
    "h": "18:00",
    "url": "https://www.ledecsko.cz/event/filmove-kvizy-3/"
+  },
+  {
+   "t": "Přednáška: Psychologie a výuka jazyků",
+   "p": "Městská knihovna",
+   "s": "2026-12-17",
+   "h": "17:00",
+   "url": "https://www.ledecsko.cz/event/prednaska-psychologie-a-vyuka-jazyku/"
   },
   {
    "t": "Betlémské světlo",
