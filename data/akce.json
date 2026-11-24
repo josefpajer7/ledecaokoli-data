@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:56:01.727Z",
+ "updated": "2026-11-24T14:28:19.716Z",
  "source": "https://www.ledecsko.cz/akce/",
  "items": [
   {
@@ -68,6 +68,13 @@
    "url": "https://www.ledecsko.cz/event/kino-bara-basikova/"
   },
   {
+   "t": "1. Adventní koncert",
+   "p": "sálek ZUŠ v Nádražní ulici",
+   "s": "2026-11-30",
+   "h": "17:00",
+   "url": "https://www.ledecsko.cz/event/1-adventni-koncert-2/"
+  },
+  {
    "t": "Vyrábění v knihovně",
    "p": "Městská knihovna",
    "s": "2026-12-02",
@@ -126,6 +133,13 @@
    "url": "https://www.ledecsko.cz/event/mezigeneracni-multimedialni-dilny-tvorba-vanocniho-prani-a-novorocenky/"
   },
   {
+   "t": "2. Adventní koncert",
+   "p": "sálek ZUŠ v Nádražní ulici",
+   "s": "2026-12-08",
+   "h": "17:00",
+   "url": "https://www.ledecsko.cz/event/2-adventni-koncert-2/"
+  },
+  {
    "t": "Přednáška: Vzácné houby Světelska",
    "p": "Městská knihovna",
    "s": "2026-12-09",
@@ -147,11 +161,25 @@
    "url": "https://www.ledecsko.cz/event/ceska-mse-vanocni-2/"
   },
   {
+   "t": "Světelná stezka sv. Lucie",
+   "p": "Lesopark Šeptouchov",
+   "s": "2026-12-12",
+   "h": "17:00",
+   "url": "https://www.ledecsko.cz/event/svetelna-stezka-sv-lucie/"
+  },
+  {
    "t": "Vánoční jarmark",
    "p": "Hrad Ledeč n. S.",
    "s": "2026-12-13",
    "h": "11:00",
    "url": "https://www.ledecsko.cz/event/vanocni-jarmark/"
+  },
+  {
+   "t": "3. Adventní koncert",
+   "p": "sálek ZUŠ v Nádražní ulici",
+   "s": "2026-12-16",
+   "h": "17:00",
+   "url": "https://www.ledecsko.cz/event/3-adventni-koncert-2/"
   },
   {
    "t": "Filmové kvízy",
