@@ -1,8 +1,18 @@
 {
- "updated": "2026-11-25T13:47:27.445Z",
+ "updated": "2026-11-26T13:27:35.724Z",
  "source": "https://www.ledecns.cz/cs/mestsky-urad/elektronicka-uredni-deska/aktualni-oznameni.html",
  "total": 54,
  "items": [
+  {
+   "t": "Rozhodnutí - povolení stavby",
+   "from": "2026-11-25",
+   "to": "2026-12-11",
+   "src": "MěÚ Světlá nad Sázavou",
+   "typ": "Veřejná vyhláška",
+   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=307548&",
+   "tag": "Oznámení",
+   "cls": ""
+  },
   {
    "t": "Veřejná vyhláška o vyměření místního poplatku za obecní systém odpadového hospodářství za poplatkové období 2025 v Poděbradech",
    "from": "2026-11-23",
@@ -82,16 +92,6 @@
    "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=306356&",
    "tag": "Doprava",
    "cls": "d"
-  },
-  {
-   "t": "Záměr pronájmu části pozemků",
-   "from": "2026-11-09",
-   "to": "2026-11-25",
-   "src": "MěÚ Ledeč nad Sázavou",
-   "typ": "Oznámení",
-   "url": "https://www.ledecns.cz/redakce/index.php?lanG=cs&clanek=49751&slozka=50690&xsekce=49709&as4uOriginalDomain=www.ledecns.cz&as4u_protocol=https&detail_claim=306172&",
-   "tag": "Majetek",
-   "cls": "m"
   },
   {
    "t": "Dražební vyhláška",
